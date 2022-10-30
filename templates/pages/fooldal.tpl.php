@@ -6,20 +6,20 @@
 
 <title>Szent Ferenc Alapítvány | Böjte Csaba OFM</title>
 
-<link rel="stylesheet" href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/language-selector.css" type="text/css" media="all">
+<link rel="stylesheet" href="styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="styles/style.css" media="screen">
 <link rel="pingback" href="https://szentferencalapitvany.org/xmlrpc.php">
-<link href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/css" rel="stylesheet" type="text/css">
+<link href="./styles/css" rel="stylesheet" type="text/css">
 
 <link rel="dns-prefetch" href="https://s.w.org/">
 <link rel="alternate" type="application/rss+xml" title="Szent Ferenc Alapítvány » hírcsatorna" href="https://szentferencalapitvany.org/feed/">
 <link rel="alternate" type="application/rss+xml" title="Szent Ferenc Alapítvány » hozzászólás hírcsatorna" href="https://szentferencalapitvany.org/comments/feed/">
-		<div class="fit-vids-style">­<style>               .fluid-width-video-wrapper {                 width: 100%;                              position: relative;                       padding: 0;                            }                                                                                   .fluid-width-video-wrapper iframe,        .fluid-width-video-wrapper object,        .fluid-width-video-wrapper embed {           position: absolute;                       top: 0;                                   left: 0;                                  width: 100%;                              height: 100%;                          }                                       </style></div><script src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/player_api"></script><script type="text/javascript">
+		<div class="fit-vids-style">­<style>               .fluid-width-video-wrapper {                 width: 100%;                              position: relative;                       padding: 0;                            }                                                                                   .fluid-width-video-wrapper iframe,        .fluid-width-video-wrapper object,        .fluid-width-video-wrapper embed {           position: absolute;                       top: 0;                                   left: 0;                                  width: 100%;                              height: 100%;                          }                                       </style></div><script src="./styles/player_api"></script><script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/szentferencalapitvany.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.22"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/wp-emoji-release.min.js.letöltés" type="text/javascript" defer=""></script>
+		</script><script src="./styles/wp-emoji-release.min.js.letöltés" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -34,20 +34,20 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="jquery-ui-style-css" href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery-ui-1.10.3.custom.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-chosen-style-css" href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/chosen.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="prettyPhoto-css" href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/prettyPhoto.css" type="text/css" media="all">
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery-migrate.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/third-party.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery.flexslider-min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery.prettyPhoto.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/portfolio.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/general.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/styleswitcher.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/core.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/jquery.ui.datepicker.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/chosen.jquery.min.js.letöltés"></script>
+<link rel="stylesheet" id="jquery-ui-style-css" href="./styles/jquery-ui-1.10.3.custom.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-chosen-style-css" href="./styles/chosen.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto-css" href="./styles/prettyPhoto.css" type="text/css" media="all">
+<script type="text/javascript" src="./styles/jquery.js.letöltés"></script>
+<script type="text/javascript" src="./styles/jquery-migrate.min.js.letöltés"></script>
+<script type="text/javascript" src="./styles/third-party.js.letöltés"></script>
+<script type="text/javascript" src="./styles/jquery.flexslider-min.js.letöltés"></script>
+<script type="text/javascript" src="./styles/jquery.prettyPhoto.js.letöltés"></script>
+<script type="text/javascript" src="./styles/portfolio.js.letöltés"></script>
+<script type="text/javascript" src="./styles/general.js.letöltés"></script>
+<script type="text/javascript" src="./styles./styleswitcher.js.letöltés"></script>
+<script type="text/javascript" src="./styles/core.min.js.letöltés"></script>
+<script type="text/javascript" src="./styles/jquery.ui.datepicker.js.letöltés"></script>
+<script type="text/javascript" src="./styles/chosen.jquery.min.js.letöltés"></script>
 <link rel="https://api.w.org/" href="https://szentferencalapitvany.org/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://szentferencalapitvany.org/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://szentferencalapitvany.org/wp-includes/wlwmanifest.xml"> 
@@ -70,16 +70,16 @@ img.emoji {
 <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport">
 
 <!-- Google Webfonts -->
-<link href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/css(1)" rel="stylesheet" type="text/css">
+<link href="./styles/css(1)" rel="stylesheet" type="text/css">
 
 <!-- Alt Stylesheet -->
-<link href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/default.css" rel="stylesheet" type="text/css">
+<link href="./styles/default.css" rel="stylesheet" type="text/css">
 
 <!-- Woo Shortcodes CSS -->
-<link href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/shortcodes.css" rel="stylesheet" type="text/css">
+<link href="./styles/shortcodes.css" rel="stylesheet" type="text/css">
 
 <!-- Custom Stylesheet -->
-<link href="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/custom.css" rel="stylesheet" type="text/css">
+<link href="./styles/custom.css" rel="stylesheet" type="text/css">
 </head>
 
 
@@ -104,7 +104,7 @@ img.emoji {
 		</div><!--/.top_menu_search-->
 	
 				<a id="logo" href="https://szentferencalapitvany.org/" title="Böjte Csaba OFM">
-                    <img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/logo.png" alt="Szent Ferenc Alapítvány">
+                    <img src="./images/logo.png" alt="Szent Ferenc Alapítvány">
                 </a>
 		
 		<div id="search-social">
@@ -186,7 +186,7 @@ img.emoji {
 	            <li id="slide-1" class="slide slide-id-10659 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/utcagyerek/" rel="bookmark" title="Útcagyerek">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2017_Utcagyerek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2017_Utcagyerek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -196,7 +196,7 @@ img.emoji {
 	            <li id="slide-2" class="slide slide-id-10657 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/neveles/" rel="bookmark" title="Nevelés">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2017_Neveles.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2017_Neveles.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -206,7 +206,7 @@ img.emoji {
 	            <li id="slide-3" class="slide slide-id-10656 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/jelszavunk/" rel="bookmark" title="Jelszavunk">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2017_Jelszavunk.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2017_Jelszavunk.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -216,7 +216,7 @@ img.emoji {
 	            <li id="slide-4" class="slide slide-id-7832 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="http://szentferencalapitvany.org/2014/04/29/1/" rel="bookmark" title="Ado 1% 2016">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2016_ado1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2016_ado1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -226,7 +226,7 @@ img.emoji {
 	            <li id="slide-5" class="slide slide-id-7743 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="http://keresztanya.blog.hu/" rel="bookmark" title="Fogadott keresztanya blog 2">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -236,7 +236,7 @@ img.emoji {
 	            <li id="slide-6" class="slide slide-id-7154 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/ajandek-nemetul/" rel="bookmark" title="Ajándék németül">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2015_II_ajandek_de.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2015_II_ajandek_de.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -246,7 +246,7 @@ img.emoji {
 	            <li id="slide-7" class="slide slide-id-7060 " style="width: 100%; float: left; margin-right: -100%; display: none;">
 	        		
     				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/ajandek/" rel="bookmark" title="Ajándék">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2015_II_ajandek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2015_II_ajandek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -256,7 +256,7 @@ img.emoji {
 	            <li id="slide-8" class="slide slide-id-6751 " style="width: 100%; float: left; margin-right: -100%; display: list-item;">
 	        		
     				    				    	    			        					<a class="" href="https://www.youtube.com/watch?v=nnGx7XrVXFw" rel="bookmark" title="A vilag gyermekszemmel">
-	        				<img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Devai_carussel_2015_1szazalek1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
+	        				<img src="./images/Devai_carussel_2015_1szazalek1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
     	    		    	    		
 	    	    		            	
 	            </li><!--/.slide-->
@@ -336,21 +336,21 @@ jQuery(window).load(function() {
     					
     						    				<h2><a href="http://szentferencalapitvany.org/kik-vagyunk/">Kik vagyunk?</a></h2>
 	    				<div class="feature-content">
-							<img class="aligncenter size-full" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/deva_kik_vagyunk_02.jpg"><div><span style="line-height: 1.5em;">A Szent Ferenc Alapítványt az erdélyi ferences szerzetesek hozták létre 1993 tavaszán. Célja segíteni a legkisebbeket, azokat, akik másnak nem kellenek!</span></div>
+							<img class="aligncenter size-full" src="./images/deva_kik_vagyunk_02.jpg"><div><span style="line-height: 1.5em;">A Szent Ferenc Alapítványt az erdélyi ferences szerzetesek hozták létre 1993 tavaszán. Célja segíteni a legkisebbeket, azokat, akik másnak nem kellenek!</span></div>
 						</div>
 	    				</li>
     				    				<li class="feature2 threecol-one">
     					
     						    				<h2><a href="http://szentferencalapitvany.org/miben-hiszunk/">Miben hiszünk?</a></h2>
 	    				<div class="feature-content">
-							<img class="aligncenter size-full" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/deva_miben_hiszunk_03.jpg"><div><span style="line-height: 1.5em;">Céljaink a gyermekek érdekeinek képviselete, szellemi és szociális fejlődésük elősegítése, szociális védelme és nevelésének elősegítése, támogatása.</span></div>
+							<img class="aligncenter size-full" src="./images/deva_miben_hiszunk_03.jpg"><div><span style="line-height: 1.5em;">Céljaink a gyermekek érdekeinek képviselete, szellemi és szociális fejlődésük elősegítése, szociális védelme és nevelésének elősegítése, támogatása.</span></div>
 						</div>
 	    				</li>
     				    				<li class="feature3 threecol-one last">
     					
     						    				<h2><a href="http://szentferencalapitvany.org/igy-elunk/">Így élünk</a></h2>
 	    				<div class="feature-content">
-							<img class="aligncenter size-full" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/deva_igy_elunk_07.jpg"><div><span style="line-height: 1.5em;">Hírek, történetek és gondolatok a Dévai Szent Ferenc Alapítvány otthonaiban lakók életéből, amelyek reményeink szerint sokaknak szolgálhatnak példaként.</span></div>
+							<img class="aligncenter size-full" src="./images/deva_igy_elunk_07.jpg"><div><span style="line-height: 1.5em;">Hírek, történetek és gondolatok a Dévai Szent Ferenc Alapítvány otthonaiban lakók életéből, amelyek reményeink szerint sokaknak szolgálhatnak példaként.</span></div>
 						</div>
 	    				</li>
     				    			</ul>
@@ -364,7 +364,7 @@ jQuery(window).load(function() {
 
         
     	    	
-    		<p></p><div id="newsbox" class="threecol-two"><h2>Friss</h2><ul><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-9/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/18648/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/tanev-kezdes/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/regenybol-varat/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-8/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-biciklizes/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/IMG_0423-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-biciklizes/">A biciklizés…</a></h4>„A biciklizés a bolygónk lassú halála” – ezzel a frappáns felütéssel indul az Urban Cycling Institute posztja. Ami egy bankár gondolkodásmódját idézi. „Egy biciklista katasztrófa az ország gazdaságára nézve: nem vesz autót, és nem is vesz fel hitelt, hogy autót vehessen. Nem fizet biztosítást. Nem vásárol folyamatosan benzint, nem költ az autó karbantartására, javítására. Nem […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/"><img src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/aNévtelen-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/">Szentmise és hangverseny Várpalotán</a></h4>&nbsp; Böjte Csaba testvér és gyermekekből álló 60 fős énekkar a Várpalotai Nagyboldogasszony templomban. Szentmise: https://www.youtube.com/watch?v=6GC1XQK8JrA&amp;t=2275s . . Alsó kép: Gabriella karnagy a Marosszéki Kodály Zoltán kórussal a zirci apátság&nbsp;templomában.</div></li></ul></div><div class="threecol-one last"><div id="youtube-box"><h2>Déváról</h2><div class="youtube-video"><iframe width="280" height="189" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/vvdo9DUK0kM.html" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe></div></div><div class="standard-block "><h2>Történetünk</h2><div class="stblock-content"><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Csaba_testver_Nagy_Csaladja.pdf" target="_blank" rel="noopener noreferrer">Csaba testvér nagy családja</a><p></p>
+    		<p></p><div id="newsbox" class="threecol-two"><h2>Friss</h2><ul><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-9/"><img src="./images/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/18648/"><img src="./images/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/tanev-kezdes/"><img src="./images/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./images/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/regenybol-varat/"><img src="./images/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-8/"><img src="./images/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-biciklizes/"><img src="./images/IMG_0423-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-biciklizes/">A biciklizés…</a></h4>„A biciklizés a bolygónk lassú halála” – ezzel a frappáns felütéssel indul az Urban Cycling Institute posztja. Ami egy bankár gondolkodásmódját idézi. „Egy biciklista katasztrófa az ország gazdaságára nézve: nem vesz autót, és nem is vesz fel hitelt, hogy autót vehessen. Nem fizet biztosítást. Nem vásárol folyamatosan benzint, nem költ az autó karbantartására, javítására. Nem […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/"><img src="./images/aNévtelen-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/">Szentmise és hangverseny Várpalotán</a></h4>&nbsp; Böjte Csaba testvér és gyermekekből álló 60 fős énekkar a Várpalotai Nagyboldogasszony templomban. Szentmise: https://www.youtube.com/watch?v=6GC1XQK8JrA&amp;t=2275s . . Alsó kép: Gabriella karnagy a Marosszéki Kodály Zoltán kórussal a zirci apátság&nbsp;templomában.</div></li></ul></div><div class="threecol-one last"><div id="youtube-box"><h2>Déváról</h2><div class="youtube-video"><iframe width="280" height="189" src="./images/vvdo9DUK0kM.html" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe></div></div><div class="standard-block "><h2>Történetünk</h2><div class="stblock-content"><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Csaba_testver_Nagy_Csaladja.pdf" target="_blank" rel="noopener noreferrer">Csaba testvér nagy családja</a><p></p>
 <p><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Father_Csaba_Big_Family_Gorssefamilie_von_Pater_Csaba.pdf" target="_blank" rel="noopener noreferrer">Father csaba’s big family<br>
 Die Grossfamilie von Pater Csaba</a></p></div></div><div class="standard-block mission-website"><h2>Csaba testvér missziós honlapja</h2><div class="stblock-content"><a class="magnificat-link" href="http://www.magnificat.ro/portal/">magnificat.ro</a></div></div></div><p></p>
 
@@ -447,15 +447,15 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 	</div>
 
 <!-- /#wrapper -->
-<!-- ngg_resource_manager_marker --><script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/imagesloaded.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/masonry.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/wp-embed.min.js.letöltés"></script>
+<!-- ngg_resource_manager_marker --><script type="text/javascript" src="./styles/imagesloaded.min.js.letöltés"></script>
+<script type="text/javascript" src="./styles/masonry.min.js.letöltés"></script>
+<script type="text/javascript" src="./styles/wp-embed.min.js.letöltés"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var icl_vars = {"current_language":"hu","icl_home":"https:\/\/szentferencalapitvany.org\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Böjte Csaba OFM_files/sitepress.js.letöltés"></script>
+<script type="text/javascript" src="./styles/sitepress.js.letöltés"></script>
 <!--[if lt IE 9]>
 <script src="https://szentferencalapitvany.org/wp-content/themes/szentferenc/includes/js/respond-IE.js"></script>
 <![endif]-->

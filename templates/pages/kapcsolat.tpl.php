@@ -73,5 +73,14 @@ function validateForm() {
     $name = test_input($_POST["targy"]);
   }
   ?>
+  <?php
+  $bejelentkezve=1;
+  if(!isset($_SESSION['login'])){
+  $bejelentkezve=0;
+}
+else{
+$bejelentkezve=1;
+}
+?>
 </body>
 </html>

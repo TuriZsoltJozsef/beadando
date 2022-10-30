@@ -1,0 +1,183 @@
+/*-----------------------------------------------------------------------------------*/
+/* GENERAL SCRIPTS */
+/*-----------------------------------------------------------------------------------*/
+jQuery(document).ready(function(){
+
+	// Masonry for home sections
+	//var container = jQuery('#features ul.section-list, #blog-home ul.section-list');
+	//if ( container.length > 0 ) {
+	//	container.masonry({
+	//	  itemSelector : '.home-section ul.section-list li',
+	//	  isAnimated: true,
+	//	  columnWidth: function( containerWidth ) {
+	//	  	return containerWidth / 2;
+	//	  }
+	//	});
+	//}
+	
+	// Table alt row styling
+	jQuery( '.entry table tr:odd' ).addClass( 'alt-table-row' );
+	
+	// FitVids - Responsive Videos
+	jQuery( ".featured, .post, .widget, .panel" ).fitVids();
+	
+	// Add class to parent menu items with JS until WP does this natively
+	jQuery("ul.sub-menu").parents().addClass('parent');
+	
+	
+	// Responsive Navigation (switch top drop down for select)
+	jQuery('ul#top-nav').mobileMenu({
+		switchWidth: 767,                   //width (in px to switch at)
+		topOptionText: 'Select a page',     //first option text
+		indentString: '&nbsp;&nbsp;&nbsp;'  //string for indenting nested items
+	});
+  	
+  	// Avoid widows in headings
+  	jQuery("article header h1 a, .single article header h1, .product_title, .page-title, h1.title a, .product a h3").each(function(){var wordArray=jQuery(this).text().split(" ");var finalTitle="";for(i=0;i<=wordArray.length-1;i++){finalTitle+=wordArray[i];if(i==(wordArray.length-2)){finalTitle+="&nbsp;"}else{finalTitle+=" "}}jQuery(this).html(finalTitle)});
+  	
+  	// Show/hide the main navigation
+  	jQuery('.nav-toggle').click(function() {
+	  jQuery('#navigation').slideToggle('fast', function() {
+	  	return false;
+	    // Animation complete.
+	  });
+	});
+	
+	//A simple toggle (without toggle on/off image)
+	jQuery('.toggle-content').hide();
+	jQuery('.toggle').find('.toggle-title').click(function () {
+		jQuery(this).parent().find('.toggle-content').slideToggle("slow");
+	});
+	
+	jQuery('.solution-excerpt').css('opacity','0');
+	jQuery('.threecol-one').find('.homepage-block').hover(function() {
+		jQuery(this).parent().find('.solution-excerpt').animate({opacity:'1'});
+	}, function() {
+		jQuery(this).parent().find('.solution-excerpt').animate({opacity:'0'});
+	});
+	
+	// Stop the navigation link moving to the anchor (Still need the anchor for semantic markup)
+	jQuery('.nav-toggle a').click(function(e) {
+        e.preventDefault();
+    });
+	
+	// Datepicker
+	jQuery('.datepicker').datepicker({
+		dateFormat: 'yy. mm. dd.',
+		changeYear: true,
+		defaultDate: new Date(1995, 00, 01),
+		yearRange: '1995:2010',
+		monthNames: ["Január", "Február", "Március", "Április", "Május", "Június", "Július", "Augusztus", "Szeptember", "Október", "November", "December"],
+		dayNamesMin: [ "V", "H", "K", "Sze", "Cs", "P", "Szo" ],
+		onSelect: function() {
+			var date = jQuery(this).datepicker('getDate');
+			var today = new Date();
+			var dayDiff = Math.ceil((today - date) / (1000 * 60 * 60 * 24));
+			if( 1095 < dayDiff && dayDiff < 2191) {
+				jQuery('select#child_category').val('3-6 éves');
+			} else if( 2190 < dayDiff && dayDiff < 3651 ) {
+				jQuery('select#child_category').val('7-10 éves');
+			} else if( 3650 < dayDiff && dayDiff < 5111 ) {
+				jQuery('select#child_category').val('11-14 éves');
+			} else if( 5110 < dayDiff && dayDiff < 6571 ) {
+				jQuery('select#child_category').val('15-18 éves');
+			}
+		},
+	});
+	
+	// Chosen select dropdown
+	jQuery('select.chosen-select').chosen({
+		no_results_text: 'Nincs találat',
+	}).change(function (event) {
+		if( jQuery(event.target).val() == 'Egyéb' ) {
+			jQuery('fieldset#other_house').show(); 
+		} else if( jQuery(event.target).val() !== 'Egyéb' ) {
+			jQuery('fieldset#other_house').hide();
+		}
+	});
+	
+	// Display a custom select dropdown 
+		jQuery('select.custom-style').each(function() {
+
+			// Cache the number of options
+			var jQuerythis = jQuery(this),
+				numberOfOptions = jQuery(this).children('option').length;
+
+			// Hides the select element
+			jQuerythis.addClass('s-hidden');
+
+			// Wrap the select element in a div
+			jQuerythis.wrap('<div class="select"></div>');
+
+			// Insert a styled div to sit over the top of the hidden select element
+			jQuerythis.after('<div class="styledSelect"></div>');
+
+			// Cache the styled div
+			var jQuerystyledSelect = jQuerythis.next('div.styledSelect');
+
+			// Show the first select option in the styled div
+			jQuerystyledSelect.text(jQuerythis.children('option').eq(0).text());
+
+			// Insert an unordered list after the styled div and also cache the list
+			var jQuerylist = jQuery('<ul />', {
+				'class': 'options'
+			}).insertAfter(jQuerystyledSelect);
+
+			// Insert a list item into the unordered list for each select option
+			for (var i = 0; i < numberOfOptions; i++) {
+				jQuery('<li />', {
+					text: jQuerythis.children('option').eq(i).text(),
+					rel: jQuerythis.children('option').eq(i).val()
+				}).appendTo(jQuerylist);
+			}
+
+			// Cache the list items
+			var jQuerylistItems = jQuerylist.children('li');
+
+			// Show the unordered list when the styled div is clicked (also hides it if the div is clicked again)
+			jQuerystyledSelect.click(function(e) {
+				e.stopPropagation();
+				jQuery('div.styledSelect.active').each(function() {
+					jQuery(this).removeClass('active').next('ul.options').hide();
+				});
+				jQuery(this).toggleClass('active').next('ul.options').toggle();
+			});
+
+			// Hides the unordered list when a list item is clicked and updates the styled div to show the selected list item
+			// Updates the select element to have the value of the equivalent option
+			jQuerylistItems.click(function(e) {
+				e.stopPropagation();
+				jQuerystyledSelect.text(jQuery(this).text()).removeClass('active');
+				jQuerythis.val(jQuery(this).attr('rel'));
+				jQuerylist.hide();
+				/*alert(jQuerythis.val());*/
+			});
+			
+			// Show other house input option if Egyéb option is selected
+			jQuery('#list_house ul.options li[rel="Egyéb"]').click(function() {
+				jQuery('fieldset#other_house').show();
+			});
+			jQuery('#list_house ul.options li[rel!="Egyéb"]').click(function() {
+				jQuery('fieldset#other_house').hide();
+			});
+			
+			// When the page is (re)loaded, find the selected option of the <select> element and use that option as text for our custom select
+			jQuery(document).ready(function() {
+				var storedValue = jQuerythis.find(':selected').text();
+				jQuerystyledSelect.text(storedValue);
+			});	
+
+			// Hides the unordered list when clicking outside of it
+			jQuery(document).click(function() {
+				jQuerystyledSelect.removeClass('active');
+				jQuerylist.hide();
+			});
+
+		});
+		
+		// Styled checkbox
+		jQuery('#child_passport').click(function() {
+			jQuery('span.checkbox_replace.passport').toggleClass('active');
+		});
+	
+});
