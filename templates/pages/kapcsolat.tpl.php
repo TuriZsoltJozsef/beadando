@@ -61,26 +61,5 @@ function validateForm() {
   }  
 }
 </script>
-<?php
-  if (empty($_POST["cimzett"])) {
-    $nameErr = "A címzett nem lehet üres";
-  } else {
-    $name = test_input($_POST["cimzett"]);
-  }
-  if (empty($_POST["targy"])) {
-    $nameErr = "A tárgy nem lehet üres";
-  } else {
-    $name = test_input($_POST["targy"]);
-  }
-  ?>
-  <?php
-  $bejelentkezve=1;
-  if(!isset($_SESSION['login'])){
-  $bejelentkezve=0;
-}
-else{
-$bejelentkezve=1;
-}
-?>
 </body>
 </html>

@@ -1,25 +1,25 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <!-- saved from url=(0014)about:internet -->
 <html lang="hu-HU" class="parent"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
 
-<title>Szent Ferenc Alapítvány  |  Kik vagyunk</title>
+<title>Szent Ferenc AlapÃ­tvÃ¡ny  |  Kik vagyunk</title>
 
-<link rel="stylesheet" href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/language-selector.css" type="text/css" media="all">
+<link rel="stylesheet" href="./styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="./styles/style.css" media="screen">
 <link rel="pingback" href="http://szentferencalapitvany.org/xmlrpc.php">
-<link href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/css" rel="stylesheet" type="text/css">
+<link href="./styles/css" rel="stylesheet" type="text/css">
 
 <link rel="dns-prefetch" href="http://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Szent Ferenc Alapítvány » hírcsatorna" href="http://szentferencalapitvany.org/feed/">
-<link rel="alternate" type="application/rss+xml" title="Szent Ferenc Alapítvány » hozzászólás hírcsatorna" href="http://szentferencalapitvany.org/comments/feed/">
-		<div class="fit-vids-style">­<style>               .fluid-width-video-wrapper {                 width: 100%;                              position: relative;                       padding: 0;                            }                                                                                   .fluid-width-video-wrapper iframe,        .fluid-width-video-wrapper object,        .fluid-width-video-wrapper embed {           position: absolute;                       top: 0;                                   left: 0;                                  width: 100%;                              height: 100%;                          }                                       </style></div><script type="text/javascript">
+<link rel="alternate" type="application/rss+xml" title="Szent Ferenc AlapÃ­tvÃ¡ny Â» hÃ­rcsatorna" href="http://szentferencalapitvany.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="Szent Ferenc AlapÃ­tvÃ¡ny Â» hozzÃ¡szÃ³lÃ¡s hÃ­rcsatorna" href="http://szentferencalapitvany.org/comments/feed/">
+		<div class="fit-vids-style">Â­<style>               .fluid-width-video-wrapper {                 width: 100%;                              position: relative;                       padding: 0;                            }                                                                                   .fluid-width-video-wrapper iframe,        .fluid-width-video-wrapper object,        .fluid-width-video-wrapper embed {           position: absolute;                       top: 0;                                   left: 0;                                  width: 100%;                              height: 100%;                          }                                       </style></div><script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/szentferencalapitvany.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.22"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/wp-emoji-release.min.js.letöltés" type="text/javascript" defer=""></script>
+		</script><script src="./styles/wp-emoji-release.min.js.letÃ¶ltÃ©s" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -34,16 +34,16 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="jquery-ui-style-css" href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/jquery-ui-1.10.3.custom.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-chosen-style-css" href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/chosen.min.css" type="text/css" media="all">
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/jquery.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/jquery-migrate.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/third-party.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/general.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/styleswitcher.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/core.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/jquery.ui.datepicker.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/chosen.jquery.min.js.letöltés"></script>
+<link rel="stylesheet" id="jquery-ui-style-css" href="./styles/jquery-ui-1.10.3.custom.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-chosen-style-css" href="./styles/chosen.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./styles/jquery.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/jquery-migrate.min.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/third-party.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/general.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles./styleswitcher.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/core.min.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/jquery.ui.datepicker.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/chosen.jquery.min.js.letÃ¶ltÃ©s"></script>
 <link rel="https://api.w.org/" href="http://szentferencalapitvany.org/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://szentferencalapitvany.org/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://szentferencalapitvany.org/wp-includes/wlwmanifest.xml"> 
@@ -69,16 +69,16 @@ img.emoji {
 <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport">
 
 <!-- Google Webfonts -->
-<link href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/css(1)" rel="stylesheet" type="text/css">
+<link href="./styles/css(1)" rel="stylesheet" type="text/css">
 
 <!-- Alt Stylesheet -->
-<link href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/default.css" rel="stylesheet" type="text/css">
+<link href="./styles/default.css" rel="stylesheet" type="text/css">
 
 <!-- Woo Shortcodes CSS -->
-<link href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/shortcodes.css" rel="stylesheet" type="text/css">
+<link href="./styles/shortcodes.css" rel="stylesheet" type="text/css">
 
 <!-- Custom Stylesheet -->
-<link href="./Szent Ferenc Alapítvány _ Kik vagyunk_files/custom.css" rel="stylesheet" type="text/css">
+<link href="./styles/custom.css" rel="stylesheet" type="text/css">
 </head>
 
 
@@ -102,8 +102,8 @@ img.emoji {
 				
 		</div><!--/.top_menu_search-->
 	
-				<a id="logo" href="http://szentferencalapitvany.org/" title="Böjte Csaba OFM">
-                    <img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/logo.png" alt="Szent Ferenc Alapítvány">
+				<a id="logo" href="http://szentferencalapitvany.org/" title="BÃ¶jte Csaba OFM">
+                    <img src="./styles/logo.png" alt="Szent Ferenc AlapÃ­tvÃ¡ny">
                 </a>
 		
 		<div id="search-social">
@@ -111,13 +111,13 @@ img.emoji {
 				<a class="magyarver" target="_blank" href="http://szentferencalapitvany.org/">Magyar</a>
 				<a class="deutschver" target="_blank" href="http://szentferencalapitvany.org/de">Deutsch</a>
 				<a class="facebook" href="https://www.facebook.com/pages/Magnificatro-B%C3%B6jte-Csaba-OFM-D%C3%A9vai-Szent-Ferenc-Alap%C3%ADtv%C3%A1ny-honlapja/161816877193336?fref=ts">Facebook oldalunk</a>
-				<a class="googleplus" href="https://plus.google.com/communities/112038451241160591525">Google+ közösségünk</a>
+				<a class="googleplus" href="https://plus.google.com/communities/112038451241160591525">Google+ kÃ¶zÃ¶ssÃ©gÃ¼nk</a>
 			</div>
 			
 			<div class="search_main fix">
     <form method="get" class="searchform" action="http://szentferencalapitvany.org/">
-        <input type="text" class="field s" name="s" value="Keresés..." onfocus="if ( this.value == &#39;Keresés...&#39; ) { this.value = &#39;&#39;; }" onblur="if ( this.value == &#39;&#39; ) { this.value = &#39;Keresés...&#39;; }">
-        <input type="submit" value="Keresés" class="search-submit" name="submit" alt="Submit">
+        <input type="text" class="field s" name="s" value="KeresÃ©s..." onfocus="if ( this.value == &#39;KeresÃ©s...&#39; ) { this.value = &#39;&#39;; }" onblur="if ( this.value == &#39;&#39; ) { this.value = &#39;KeresÃ©s...&#39;; }">
+        <input type="submit" value="KeresÃ©s" class="search-submit" name="submit" alt="Submit">
     </form>    
 </div><!--/.search_main-->
 		</div>
@@ -126,41 +126,41 @@ img.emoji {
 		
 			<ul id="main-nav" class="nav parent"><li id="menu-item-17056" class="kikvagyunk menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-has-children menu-item-17056 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/">Kik vagyunk</a>
 <ul class="sub-menu">
-	<li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="http://szentferencalapitvany.org/miben-hiszunk/">Miben hiszünk</a></li>
-	<li id="menu-item-17055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17055"><a href="http://szentferencalapitvany.org/keptar/hazaink/">Házaink</a></li>
-	<li id="menu-item-17057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17057"><a href="http://szentferencalapitvany.org/kik-vagyunk/az-alapitvanyrol/">Dévai Szent Ferenc Alapítvány (Bp)</a></li>
-	<li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="http://szentferencalapitvany.org/kik-vagyunk/alapitvanyunk-tortenete/">Alapítványunk története</a></li>
+	<li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="http://szentferencalapitvany.org/miben-hiszunk/">Miben hiszÃ¼nk</a></li>
+	<li id="menu-item-17055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17055"><a href="http://szentferencalapitvany.org/keptar/hazaink/">HÃ¡zaink</a></li>
+	<li id="menu-item-17057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17057"><a href="http://szentferencalapitvany.org/kik-vagyunk/az-alapitvanyrol/">DÃ©vai Szent Ferenc AlapÃ­tvÃ¡ny (Bp)</a></li>
+	<li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="http://szentferencalapitvany.org/kik-vagyunk/alapitvanyunk-tortenete/">AlapÃ­tvÃ¡nyunk tÃ¶rtÃ©nete</a></li>
 </ul>
 </li>
-<li id="menu-item-18558" class="mibenhiszunk menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18558 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/#">Gyermekvédeklem</a>
+<li id="menu-item-18558" class="mibenhiszunk menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18558 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/#">GyermekvÃ©deklem</a>
 <ul class="sub-menu">
-	<li id="menu-item-18562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18562"><a href="http://szentferencalapitvany.org/kuratorium-allasfoglalasa/">Kuratórium állásfoglalása</a></li>
+	<li id="menu-item-18562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18562"><a href="http://szentferencalapitvany.org/kuratorium-allasfoglalasa/">KuratÃ³rium Ã¡llÃ¡sfoglalÃ¡sa</a></li>
 	<li id="menu-item-18561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18561"><a href="http://szentferencalapitvany.org/hova-forduljak-gyermekvedelmi-jelzorendszer/">Hova forduljak?</a></li>
-	<li id="menu-item-18560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18560"><a href="http://szentferencalapitvany.org/gyermekvedelmi-testulet/">Gyermekvédelmi testület</a></li>
+	<li id="menu-item-18560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18560"><a href="http://szentferencalapitvany.org/gyermekvedelmi-testulet/">GyermekvÃ©delmi testÃ¼let</a></li>
 	<li id="menu-item-18559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18559"><a href="http://szentferencalapitvany.org/szakmai-anyagok/">Szakmai anyagok</a></li>
 </ul>
 </li>
-<li id="menu-item-17060" class="igyelunk menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17060 parent"><a href="http://szentferencalapitvany.org/igy-elunk/">Így élünk</a>
+<li id="menu-item-17060" class="igyelunk menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17060 parent"><a href="http://szentferencalapitvany.org/igy-elunk/">Ãgy Ã©lÃ¼nk</a>
 <ul class="sub-menu">
-	<li id="menu-item-17071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17071"><a href="http://szentferencalapitvany.org/kategoria/hirek-esemenyek/">Hírek, események</a></li>
-	<li id="menu-item-17072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17072"><a href="http://szentferencalapitvany.org/kategoria/bojte-csaba-elmelkedesei/">Böjte Csaba elmélkedései</a></li>
-	<li id="menu-item-17073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17073"><a href="http://szentferencalapitvany.org/kategoria/neveloink-irtak/">Nevelõink írták</a></li>
-	<li id="menu-item-17074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17074"><a href="http://szentferencalapitvany.org/kategoria/gyerekeink-irtak/">Gyerekeink írták</a></li>
+	<li id="menu-item-17071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17071"><a href="http://szentferencalapitvany.org/kategoria/hirek-esemenyek/">HÃ­rek, esemÃ©nyek</a></li>
+	<li id="menu-item-17072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17072"><a href="http://szentferencalapitvany.org/kategoria/bojte-csaba-elmelkedesei/">BÃ¶jte Csaba elmÃ©lkedÃ©sei</a></li>
+	<li id="menu-item-17073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17073"><a href="http://szentferencalapitvany.org/kategoria/neveloink-irtak/">NevelÅ‘ink Ã­rtÃ¡k</a></li>
+	<li id="menu-item-17074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17074"><a href="http://szentferencalapitvany.org/kategoria/gyerekeink-irtak/">Gyerekeink Ã­rtÃ¡k</a></li>
 </ul>
 </li>
-<li id="menu-item-17061" class="hogyansegithetsz menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17061 parent"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/">Hogyan segíthetsz</a>
+<li id="menu-item-17061" class="hogyansegithetsz menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17061 parent"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/">Hogyan segÃ­thetsz</a>
 <ul class="sub-menu">
-	<li id="menu-item-17062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17062"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/onkentesseg/">Önkéntesség</a></li>
-	<li id="menu-item-17063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17063"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/adomanyok/">Adományok</a></li>
-	<li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/keresztszuloi-programunk/">Keresztszülõi programunk</a></li>
+	<li id="menu-item-17062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17062"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/onkentesseg/">Ã–nkÃ©ntessÃ©g</a></li>
+	<li id="menu-item-17063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17063"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/adomanyok/">AdomÃ¡nyok</a></li>
+	<li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/keresztszuloi-programunk/">KeresztszÃ¼lÅ‘i programunk</a></li>
 </ul>
 </li>
 <li id="menu-item-17065" class="elerhetoseg menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17065 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/#">Kapcsolat</a>
 <ul class="sub-menu">
-	<li id="menu-item-17066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17066"><a href="http://szentferencalapitvany.org/kapcsolat/">Elérhetõségeink (Budapest)</a></li>
-	<li id="menu-item-17067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17067"><a href="http://szentferencalapitvany.org/elerhetosegeink-deva-2/">Elérhetõségeink (Déva)</a></li>
-	<li id="menu-item-17068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17068"><a href="http://szentferencalapitvany.org/kapcsolat/vendeglatas/">Vendéglátás</a></li>
-	<li id="menu-item-17069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17069"><a href="http://szentferencalapitvany.org/kapcsolat/sajtoszoba/">Sajtószoba</a></li>
+	<li id="menu-item-17066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17066"><a href="http://szentferencalapitvany.org/kapcsolat/">ElÃ©rhetÅ‘sÃ©geink (Budapest)</a></li>
+	<li id="menu-item-17067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17067"><a href="http://szentferencalapitvany.org/elerhetosegeink-deva-2/">ElÃ©rhetÅ‘sÃ©geink (DÃ©va)</a></li>
+	<li id="menu-item-17068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17068"><a href="http://szentferencalapitvany.org/kapcsolat/vendeglatas/">VendÃ©glÃ¡tÃ¡s</a></li>
+	<li id="menu-item-17069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17069"><a href="http://szentferencalapitvany.org/kapcsolat/sajtoszoba/">SajtÃ³szoba</a></li>
 </ul>
 </li>
 </ul>	
@@ -184,25 +184,25 @@ img.emoji {
 				</header>
 				
                 <section class="entry">
-                	<p>A Szent Ferenc Alapítványt az erdélyi ferences szerzetesek hozták létre 1993 tavaszán. Célja segíteni a bajban, nehéz helyzetben lévõ legkisebbeket.</p>
-<p>Istennek hála szépen kivirágzott a dévai gyermekvédelmi központunk az elmúlt húsz év alatt. 1993 szeptemberében, az elsõ tanév elsõ napjaiban, ha maga a házunk Védõszentje, a Boldogságos Szûz Anya jelent volna meg nekem, és bizalmason elmesélte volna, hogy a következõ húsz évben ilyen sok és ilyen szép tarka virág fog nyílni e kolostorban, és belõle kiáradva, a Kárpát-medencében, egészen biztos, hogy nem hittem volna el, még Máriának sem. Embernek, ami elképzelhetetlen, Istennek az lehetséges! Attól az elsõ iskolanaptól mostanig közel 5.000 gyermeket fogadtunk be, volt akit csak néhány évre, de sokan voltak, akit 10-15, vagy ennél is több esztendõre. Jelenleg 82 helységben kettõezer-háromszáznál is több gyereket nevelünk, gondozunk Isten nevében szeretettel. Elkezdtük a 22. tanévet, és ki tudná megmondani, hogy hány jó szóért, eredményes vizsgáért, feltörõ vidám kacagásért kellene hálát adnunk? Ki tudná összeszámolni, hogy hány adományozó, mennyi mindennel ajándékozta meg gyermekeinket és azt, hogy a sok-sok adományból, mennyi áldás, élet fakadt?</p>
-<h3>A Szent Ferenc Alapítvány gyermekvédelmi tevékenysége</h3>
-<p>Gyermekvédelmi munkánkat szeretnénk a nagycsaládok, a veszélyeztetett, a bajba jutott családok támogatásával kezdeni. Nemcsak tanáccsal, jó szóval, hanem anyagi támogatással, tanszerrel, ruhával is segíteni akarjuk a szülõket, a gyámokat, hogy gyermekeik szépen, egészségesen fejlõdjenek. Az lenne jó, ha ez a megelõzõ tevékenység, elégséges lenne. Istennek hála akarunk is, de tudunk is a bajba jutott embereken segíteni, amennyiben megkeresnek.</p>
-<h4>Iskolaházak, napközik</h4>
-<p>Természetesen az is igaz, hogy a segítség soha nem elég, ezért a komolyabb bajban lévõ gyerekek számára Iskolaházakat szervezünk. Sajnos sokszor úgy tapasztaljuk, hogy a szülõk, nagyszülõk, a gyermek gyámjai nem képesek különféle okokból kifolyólag felügyelni, és irányítani a gyermek fejlõdését, és ilyenkor a magára maradott gyermek, fiatal – még ha van is, ahol lakjon – könnyen veszélybe kerül. Testi, lelki, szellemi fejlõdése visszamarad. Ezért a nem különösen veszélyeztetett gyerekek számára napközi otthonos tevékenységet hoztunk létre. Nyugaton az állam is fenntart ilyen tevékenységet. Ezekbe az otthonokba iskola után jönnek a gyermekek. Itt nevelõjük vezetésével bevásárolnak, elkészítik az ebédjüket, felkészülnek a másnapi oktatásra, játszanak, tisztálkodnak, majd este haza mennek. Alapítványunk jelenleg 46 erdélyi helységben tart fent napközi otthont, sok száz gyermek számára.</p>
-<p>Amennyiben ez a tevékenység nem elégséges, akkor szükséges a gyermeket, a fiatalt a bentlakó otthonba befogadni.</p>
-<h4>Bentlakóotthonok</h4>
-<p>Sajnos mindig is voltak, és vannak olyan gyerekek, akik számára a napközi otthonos ellátás nem elégséges. A gondok, bajok tönkreteszik a gyermekeket, meggátolják lelki, szellemi, erkölcsi kibontakozásukat, növekedésüket. Amikor már semmi más megoldásra nincs lehetõségünk, akkor a legközelebbi vérszerinti rokon írásos kérésére befogadjuk a gyermekeket bentlakásos otthonainkba. Természetes, hogy az itt élõ gyerekek, fiatalok tarthatják a rokonokkal a kapcsolatot, sõt vakációkban haza is mehetnek, ha a rokonok tudják õket fogadni. Jelenleg 22 bentlakóotthonban sok száz bentlakó gyereket oktatunk, nevelünk.</p>
-<h3>Hála mindenért</h3>
-<p>Mindennapi munkánkon az elsõ naptól éreztük Isten áldását. Számomra ez az alapítvány a gyermekekkel való foglalkozás, Isten gondviselésének, a csodának a szinonimája. Csoda volt ötezer embernek enni adni a galileai tenger partján, de itt, Romániában, ma is ugyanannak az élõ Istennek a csodája, hogy nap mint nap több száz embert asztalhoz ülhet. Csoda, hogy az eltelt évek alatt a kamránk nem ürült ki, a tûz a kályhánkban nem aludt ki, és a sok-sok hiba, nehézség ellenére is nem torpant meg alapítványunk növekedése, kibontakozása.</p>
-<p>Munkánk elkezdése elõtt álmainkat, melyet hisszük, hogy a Szentlélek álmodott belénk, a Magyarok Nagyasszonyának, Máriának a pártfogásába ajánlottuk. Õ a mi példaképünk, mert gyermekeinket hozzá hasonlóan, a Szentlélek, Isten kegyelmébõl, erejébõl fogadtuk be. Istenünk után neki, az Istent szülõ Szûznek, a Szépszeretet anyjának, a térden álló mindenhatóságnak, Máriának szeretnénk megköszönni, hogy ily sok éve anyai jóságának örvendhetünk. Patrónánk palástja alatt – mint gyermek anyja karjaiban – mertünk emberi képességeinket felülmúló nehézségekkel szembenézni, terheket vállalni.</p>
-<p>Nagy szeretettel vagyunk Szent József iránt is, aki a kis Jézusnak nem a test és a vér vágyából lett apja, hanem Isten akaratából. Õ megmutatta, hogyan lehetünk mindent feláldozó, szeretõ szülei annak a gyermeknek, akinek nem mi adtunk fizikai életet, de akinek sokszor még a fizikai léte is tõlünk függ.</p>
-<p>Szent Ferencnek is hálával tartozunk, hisz tõle tanultuk, hogy életünk legnagyobb gondjai közepette is lehet két száraz fával hegedülve szembekacagni a nyomorral, akár vérzõ szívvel is vidáman együtt lenni az ártatlan, tiszta szívû gyermekekkel. Õ tanított meg arra, hogy pacsirta módjára nem szégyen felcsipegetni az út szélére hullott morzsákat. Alázattal dicsõíteni az Istent és kérni mindazt, amire szükségünk van: ruhát, bútort, élelmet, tanszert, házat, mindent annak az Istennek a nevében, aki érettünk koldussá lett.</p>
-<p>Köszönjük Árpád-házi Szent Erzsébetnek is, aki maga mögött hagyta nemcsak családját, népét, hogy messzi idegenben szentelje magát a szegények, a legkisebbek szolgálatának, hanem a jómódról, a kényelemrõl is lemondott a szegények, a kicsinyek iránti szeretetbõl.</p>
-<p>Úgy érzem, hogy a mindenszentek litániáját kellene elmondanunk, mert a mindennapi nevelési, szervezési gondjainkban nagyon gyakran kerestünk példát, kértünk és kaptunk segítséget egyházunk szentjeitõl. Sokszor megbicsaklott volna lábunk az erõnket meghaladó teher alatt, ha Márton Áron, Kalkuttai Teréz anya, és a hozzájuk hasonló törékeny, de minden vihart alázattal kiálló szentjeink példája nem lebegett volna szemünk elõtt.</p>
-<p>Egyházunk, rendünk elöljáróinak köszönjük hitüket, bizalmukat. A provinciálisom biztatott, hogy omladozó, állami kézben lévõ kolostorunkat foglaljuk vissza, és töltsük meg élettel. Félelmeinkben, kicsinyhitûségünkben nagy-nagy szeretettel mindig mellettünk állt. Elöljáróink, még amikor a szakadékok szélén jártunk, akkor sem mondták, hogy nem érdemes folytatni. Segítettek, amivel tudtak, de a legnagyobb segítség az volt, hogy hitték: képesek vagyunk elvégezni azt, aminek megvalósításában mi magunk sem mindig hittünk.</p>
-<p>Nagy-nagy hálával mondok köszönetet mindazoknak, akik céljaink valóra váltásánál szerepet, feladatot vállaltak és vállalnak. Imádságos szeretettel gondolok azokra, akik életükbõl éveket, vagy csak néhány napot áldoztak arra, hogy együtt építhessük Isten országát.</p>
-<p style="text-align: right;"><em><strong>Csaba testvér</strong></em></p>
+                	<p>A Szent Ferenc AlapÃ­tvÃ¡nyt az erdÃ©lyi ferences szerzetesek hoztÃ¡k lÃ©tre 1993 tavaszÃ¡n. CÃ©lja segÃ­teni a bajban, nehÃ©z helyzetben lÃ©vÅ‘ legkisebbeket.</p>
+<p>Istennek hÃ¡la szÃ©pen kivirÃ¡gzott a dÃ©vai gyermekvÃ©delmi kÃ¶zpontunk az elmÃºlt hÃºsz Ã©v alatt. 1993 szeptemberÃ©ben, az elsÅ‘ tanÃ©v elsÅ‘ napjaiban, ha maga a hÃ¡zunk VÃ©dÅ‘szentje, a BoldogsÃ¡gos SzÅ±z Anya jelent volna meg nekem, Ã©s bizalmason elmesÃ©lte volna, hogy a kÃ¶vetkezÅ‘ hÃºsz Ã©vben ilyen sok Ã©s ilyen szÃ©p tarka virÃ¡g fog nyÃ­lni e kolostorban, Ã©s belÅ‘le kiÃ¡radva, a KÃ¡rpÃ¡t-medencÃ©ben, egÃ©szen biztos, hogy nem hittem volna el, mÃ©g MÃ¡riÃ¡nak sem. Embernek, ami elkÃ©pzelhetetlen, Istennek az lehetsÃ©ges! AttÃ³l az elsÅ‘ iskolanaptÃ³l mostanig kÃ¶zel 5.000 gyermeket fogadtunk be, volt akit csak nÃ©hÃ¡ny Ã©vre, de sokan voltak, akit 10-15, vagy ennÃ©l is tÃ¶bb esztendÅ‘re. Jelenleg 82 helysÃ©gben kettÅ‘ezer-hÃ¡romszÃ¡znÃ¡l is tÃ¶bb gyereket nevelÃ¼nk, gondozunk Isten nevÃ©ben szeretettel. ElkezdtÃ¼k a 22. tanÃ©vet, Ã©s ki tudnÃ¡ megmondani, hogy hÃ¡ny jÃ³ szÃ³Ã©rt, eredmÃ©nyes vizsgÃ¡Ã©rt, feltÃ¶rÅ‘ vidÃ¡m kacagÃ¡sÃ©rt kellene hÃ¡lÃ¡t adnunk? Ki tudnÃ¡ Ã¶sszeszÃ¡molni, hogy hÃ¡ny adomÃ¡nyozÃ³, mennyi mindennel ajÃ¡ndÃ©kozta meg gyermekeinket Ã©s azt, hogy a sok-sok adomÃ¡nybÃ³l, mennyi Ã¡ldÃ¡s, Ã©let fakadt?</p>
+<h3>A Szent Ferenc AlapÃ­tvÃ¡ny gyermekvÃ©delmi tevÃ©kenysÃ©ge</h3>
+<p>GyermekvÃ©delmi munkÃ¡nkat szeretnÃ©nk a nagycsalÃ¡dok, a veszÃ©lyeztetett, a bajba jutott csalÃ¡dok tÃ¡mogatÃ¡sÃ¡val kezdeni. Nemcsak tanÃ¡ccsal, jÃ³ szÃ³val, hanem anyagi tÃ¡mogatÃ¡ssal, tanszerrel, ruhÃ¡val is segÃ­teni akarjuk a szÃ¼lÅ‘ket, a gyÃ¡mokat, hogy gyermekeik szÃ©pen, egÃ©szsÃ©gesen fejlÅ‘djenek. Az lenne jÃ³, ha ez a megelÅ‘zÅ‘ tevÃ©kenysÃ©g, elÃ©gsÃ©ges lenne. Istennek hÃ¡la akarunk is, de tudunk is a bajba jutott embereken segÃ­teni, amennyiben megkeresnek.</p>
+<h4>IskolahÃ¡zak, napkÃ¶zik</h4>
+<p>TermÃ©szetesen az is igaz, hogy a segÃ­tsÃ©g soha nem elÃ©g, ezÃ©rt a komolyabb bajban lÃ©vÅ‘ gyerekek szÃ¡mÃ¡ra IskolahÃ¡zakat szervezÃ¼nk. Sajnos sokszor Ãºgy tapasztaljuk, hogy a szÃ¼lÅ‘k, nagyszÃ¼lÅ‘k, a gyermek gyÃ¡mjai nem kÃ©pesek kÃ¼lÃ¶nfÃ©le okokbÃ³l kifolyÃ³lag felÃ¼gyelni, Ã©s irÃ¡nyÃ­tani a gyermek fejlÅ‘dÃ©sÃ©t, Ã©s ilyenkor a magÃ¡ra maradott gyermek, fiatal â€“ mÃ©g ha van is, ahol lakjon â€“ kÃ¶nnyen veszÃ©lybe kerÃ¼l. Testi, lelki, szellemi fejlÅ‘dÃ©se visszamarad. EzÃ©rt a nem kÃ¼lÃ¶nÃ¶sen veszÃ©lyeztetett gyerekek szÃ¡mÃ¡ra napkÃ¶zi otthonos tevÃ©kenysÃ©get hoztunk lÃ©tre. Nyugaton az Ã¡llam is fenntart ilyen tevÃ©kenysÃ©get. Ezekbe az otthonokba iskola utÃ¡n jÃ¶nnek a gyermekek. Itt nevelÅ‘jÃ¼k vezetÃ©sÃ©vel bevÃ¡sÃ¡rolnak, elkÃ©szÃ­tik az ebÃ©djÃ¼ket, felkÃ©szÃ¼lnek a mÃ¡snapi oktatÃ¡sra, jÃ¡tszanak, tisztÃ¡lkodnak, majd este haza mennek. AlapÃ­tvÃ¡nyunk jelenleg 46 erdÃ©lyi helysÃ©gben tart fent napkÃ¶zi otthont, sok szÃ¡z gyermek szÃ¡mÃ¡ra.</p>
+<p>Amennyiben ez a tevÃ©kenysÃ©g nem elÃ©gsÃ©ges, akkor szÃ¼ksÃ©ges a gyermeket, a fiatalt a bentlakÃ³ otthonba befogadni.</p>
+<h4>BentlakÃ³otthonok</h4>
+<p>Sajnos mindig is voltak, Ã©s vannak olyan gyerekek, akik szÃ¡mÃ¡ra a napkÃ¶zi otthonos ellÃ¡tÃ¡s nem elÃ©gsÃ©ges. A gondok, bajok tÃ¶nkreteszik a gyermekeket, meggÃ¡toljÃ¡k lelki, szellemi, erkÃ¶lcsi kibontakozÃ¡sukat, nÃ¶vekedÃ©sÃ¼ket. Amikor mÃ¡r semmi mÃ¡s megoldÃ¡sra nincs lehetÅ‘sÃ©gÃ¼nk, akkor a legkÃ¶zelebbi vÃ©rszerinti rokon Ã­rÃ¡sos kÃ©rÃ©sÃ©re befogadjuk a gyermekeket bentlakÃ¡sos otthonainkba. TermÃ©szetes, hogy az itt Ã©lÅ‘ gyerekek, fiatalok tarthatjÃ¡k a rokonokkal a kapcsolatot, sÅ‘t vakÃ¡ciÃ³kban haza is mehetnek, ha a rokonok tudjÃ¡k Å‘ket fogadni. Jelenleg 22 bentlakÃ³otthonban sok szÃ¡z bentlakÃ³ gyereket oktatunk, nevelÃ¼nk.</p>
+<h3>HÃ¡la mindenÃ©rt</h3>
+<p>Mindennapi munkÃ¡nkon az elsÅ‘ naptÃ³l Ã©reztÃ¼k Isten Ã¡ldÃ¡sÃ¡t. SzÃ¡momra ez az alapÃ­tvÃ¡ny a gyermekekkel valÃ³ foglalkozÃ¡s, Isten gondviselÃ©sÃ©nek, a csodÃ¡nak a szinonimÃ¡ja. Csoda volt Ã¶tezer embernek enni adni a galileai tenger partjÃ¡n, de itt, RomÃ¡niÃ¡ban, ma is ugyanannak az Ã©lÅ‘ Istennek a csodÃ¡ja, hogy nap mint nap tÃ¶bb szÃ¡z embert asztalhoz Ã¼lhet. Csoda, hogy az eltelt Ã©vek alatt a kamrÃ¡nk nem Ã¼rÃ¼lt ki, a tÅ±z a kÃ¡lyhÃ¡nkban nem aludt ki, Ã©s a sok-sok hiba, nehÃ©zsÃ©g ellenÃ©re is nem torpant meg alapÃ­tvÃ¡nyunk nÃ¶vekedÃ©se, kibontakozÃ¡sa.</p>
+<p>MunkÃ¡nk elkezdÃ©se elÅ‘tt Ã¡lmainkat, melyet hisszÃ¼k, hogy a SzentlÃ©lek Ã¡lmodott belÃ©nk, a Magyarok NagyasszonyÃ¡nak, MÃ¡riÃ¡nak a pÃ¡rtfogÃ¡sÃ¡ba ajÃ¡nlottuk. Å a mi pÃ©ldakÃ©pÃ¼nk, mert gyermekeinket hozzÃ¡ hasonlÃ³an, a SzentlÃ©lek, Isten kegyelmÃ©bÅ‘l, erejÃ©bÅ‘l fogadtuk be. IstenÃ¼nk utÃ¡n neki, az Istent szÃ¼lÅ‘ SzÅ±znek, a SzÃ©pszeretet anyjÃ¡nak, a tÃ©rden Ã¡llÃ³ mindenhatÃ³sÃ¡gnak, MÃ¡riÃ¡nak szeretnÃ©nk megkÃ¶szÃ¶nni, hogy ily sok Ã©ve anyai jÃ³sÃ¡gÃ¡nak Ã¶rvendhetÃ¼nk. PatrÃ³nÃ¡nk palÃ¡stja alatt â€“ mint gyermek anyja karjaiban â€“ mertÃ¼nk emberi kÃ©pessÃ©geinket felÃ¼lmÃºlÃ³ nehÃ©zsÃ©gekkel szembenÃ©zni, terheket vÃ¡llalni.</p>
+<p>Nagy szeretettel vagyunk Szent JÃ³zsef irÃ¡nt is, aki a kis JÃ©zusnak nem a test Ã©s a vÃ©r vÃ¡gyÃ¡bÃ³l lett apja, hanem Isten akaratÃ¡bÃ³l. Å megmutatta, hogyan lehetÃ¼nk mindent felÃ¡ldozÃ³, szeretÅ‘ szÃ¼lei annak a gyermeknek, akinek nem mi adtunk fizikai Ã©letet, de akinek sokszor mÃ©g a fizikai lÃ©te is tÅ‘lÃ¼nk fÃ¼gg.</p>
+<p>Szent Ferencnek is hÃ¡lÃ¡val tartozunk, hisz tÅ‘le tanultuk, hogy Ã©letÃ¼nk legnagyobb gondjai kÃ¶zepette is lehet kÃ©t szÃ¡raz fÃ¡val hegedÃ¼lve szembekacagni a nyomorral, akÃ¡r vÃ©rzÅ‘ szÃ­vvel is vidÃ¡man egyÃ¼tt lenni az Ã¡rtatlan, tiszta szÃ­vÅ± gyermekekkel. Å tanÃ­tott meg arra, hogy pacsirta mÃ³djÃ¡ra nem szÃ©gyen felcsipegetni az Ãºt szÃ©lÃ©re hullott morzsÃ¡kat. AlÃ¡zattal dicsÅ‘Ã­teni az Istent Ã©s kÃ©rni mindazt, amire szÃ¼ksÃ©gÃ¼nk van: ruhÃ¡t, bÃºtort, Ã©lelmet, tanszert, hÃ¡zat, mindent annak az Istennek a nevÃ©ben, aki Ã©rettÃ¼nk koldussÃ¡ lett.</p>
+<p>KÃ¶szÃ¶njÃ¼k ÃrpÃ¡d-hÃ¡zi Szent ErzsÃ©betnek is, aki maga mÃ¶gÃ¶tt hagyta nemcsak csalÃ¡djÃ¡t, nÃ©pÃ©t, hogy messzi idegenben szentelje magÃ¡t a szegÃ©nyek, a legkisebbek szolgÃ¡latÃ¡nak, hanem a jÃ³mÃ³drÃ³l, a kÃ©nyelemrÅ‘l is lemondott a szegÃ©nyek, a kicsinyek irÃ¡nti szeretetbÅ‘l.</p>
+<p>Ãšgy Ã©rzem, hogy a mindenszentek litÃ¡niÃ¡jÃ¡t kellene elmondanunk, mert a mindennapi nevelÃ©si, szervezÃ©si gondjainkban nagyon gyakran kerestÃ¼nk pÃ©ldÃ¡t, kÃ©rtÃ¼nk Ã©s kaptunk segÃ­tsÃ©get egyhÃ¡zunk szentjeitÅ‘l. Sokszor megbicsaklott volna lÃ¡bunk az erÅ‘nket meghaladÃ³ teher alatt, ha MÃ¡rton Ãron, Kalkuttai TerÃ©z anya, Ã©s a hozzÃ¡juk hasonlÃ³ tÃ¶rÃ©keny, de minden vihart alÃ¡zattal kiÃ¡llÃ³ szentjeink pÃ©ldÃ¡ja nem lebegett volna szemÃ¼nk elÅ‘tt.</p>
+<p>EgyhÃ¡zunk, rendÃ¼nk elÃ¶ljÃ¡rÃ³inak kÃ¶szÃ¶njÃ¼k hitÃ¼ket, bizalmukat. A provinciÃ¡lisom biztatott, hogy omladozÃ³, Ã¡llami kÃ©zben lÃ©vÅ‘ kolostorunkat foglaljuk vissza, Ã©s tÃ¶ltsÃ¼k meg Ã©lettel. FÃ©lelmeinkben, kicsinyhitÅ±sÃ©gÃ¼nkben nagy-nagy szeretettel mindig mellettÃ¼nk Ã¡llt. ElÃ¶ljÃ¡rÃ³ink, mÃ©g amikor a szakadÃ©kok szÃ©lÃ©n jÃ¡rtunk, akkor sem mondtÃ¡k, hogy nem Ã©rdemes folytatni. SegÃ­tettek, amivel tudtak, de a legnagyobb segÃ­tsÃ©g az volt, hogy hittÃ©k: kÃ©pesek vagyunk elvÃ©gezni azt, aminek megvalÃ³sÃ­tÃ¡sÃ¡ban mi magunk sem mindig hittÃ¼nk.</p>
+<p>Nagy-nagy hÃ¡lÃ¡val mondok kÃ¶szÃ¶netet mindazoknak, akik cÃ©ljaink valÃ³ra vÃ¡ltÃ¡sÃ¡nÃ¡l szerepet, feladatot vÃ¡llaltak Ã©s vÃ¡llalnak. ImÃ¡dsÃ¡gos szeretettel gondolok azokra, akik Ã©letÃ¼kbÅ‘l Ã©veket, vagy csak nÃ©hÃ¡ny napot Ã¡ldoztak arra, hogy egyÃ¼tt Ã©pÃ­thessÃ¼k Isten orszÃ¡gÃ¡t.</p>
+<p style="text-align: right;"><em><strong>Csaba testvÃ©r</strong></em></p>
 
 					               	</section><!-- /.entry -->
 
@@ -221,22 +221,22 @@ img.emoji {
     <ul>
         <li><a href="http://szentferencalapitvany.org/kik-vagyunk/#" class="lang_sel_sel icl-hu">
                             
-            <img class="iclflag" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/hu.png" alt="hu" title="Magyar">                                
+            <img class="iclflag" src="./styles/hu.png" alt="hu" title="Magyar">                                
             &nbsp;<span class="icl_lang_sel_current">Magyar</span></a>                                    
             <ul>
                                                 <li class="icl-de">          
                     <a href="http://szentferencalapitvany.org/de/wer-sind-wir/">
                                     
-                    <img class="iclflag" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/de.png" alt="de" title="német">&nbsp;                    
-                                        <span class="icl_lang_sel_native">Deutsch</span> <span class="icl_lang_sel_translated"><span class="icl_lang_sel_native">(</span>német<span class="icl_lang_sel_native">)</span></span>                    </a>
+                    <img class="iclflag" src="./styles/de.png" alt="de" title="nÃ©met">&nbsp;                    
+                                        <span class="icl_lang_sel_native">Deutsch</span> <span class="icl_lang_sel_translated"><span class="icl_lang_sel_native">(</span>nÃ©met<span class="icl_lang_sel_native">)</span></span>                    </a>
                 </li>
                             </ul>            
              
                     </li>
     </ul>    
 </div>
-</div><div id="text-5" class="widget widget_text"><h3>Video</h3>			<div class="textwidget"><iframe src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/wtZzVPGGnnM.html" frameborder="0" allowfullscreen=""></iframe></div>
-		</div><div id="dzs_latestpost_widget-2" class="widget dzs_latestpost_widget"><h3>News</h3><div id="newsbox" class=""><ul><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerû hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-9/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelõ Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tûzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelõ Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/18648/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/tanev-kezdes/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörûségébõl, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyûlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlÕvíz c. vallási mûsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctõl) ÉLÕVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/regenybol-varat/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/regenybol-varat/">Regénybõl várat…</a></h4>Gyermekeinknek építsünk regénybõl várat, hírbõl holnapot és szeretetbõl hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtõl-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-8/"><img src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelõ Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink mûködéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi idõszakban felhalmozódó fûtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelõ Zrt 26000000 Ft támogatását, […]</div></li></ul></div></div>		           
+</div><div id="text-5" class="widget widget_text"><h3>Video</h3>			<div class="textwidget"><iframe src="./styles/wtZzVPGGnnM.html" frameborder="0" allowfullscreen=""></iframe></div>
+		</div><div id="dzs_latestpost_widget-2" class="widget dzs_latestpost_widget"><h3>News</h3><div id="newsbox" class=""><ul><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/kopp-maria-setany/">Kopp MÃ¡ria sÃ©tÃ¡ny</a></h4>â€Furcsa lesz anyukÃ¡m ÃºtjÃ¡n lÃ©pkedniâ€&nbsp; A gyÃ¼mÃ¶lcs Ã©rik! NagyszerÅ± hÃ­r!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-9/"><img src="./styles/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-9/">KÃ¶szÃ¶net</a></h4>&nbsp; A Bethlen GÃ¡bor AlapkezelÅ‘ Zrt 15.000.000 Ft tÃ¡mogatÃ¡sÃ¡val a Szent Ferenc AlapÃ­tvÃ¡ny tÃ¶bb otthonÃ¡ban sikerÃ¼lt a tÃ©lre szÃ¼ksÃ©ges tÅ±zifÃ¡t megvÃ¡sÃ¡rolni. A Szent Ferenc AlapÃ­tvÃ¡ny ezÃºton is kÃ¶szÃ¶netet mond a Bethlen GÃ¡bor AlapkezelÅ‘ Zrt-nek, melyek tÃ¡mogatÃ¡sa rÃ©vÃ©n tÃ¶bb szÃ¡z nehÃ©z sorsÃº erdÃ©lyi magyar gyermek szÃ¡mÃ¡ra biztosÃ­tottak meleg otthont, kÃ©nyelmes lakÃ³kÃ¶rÃ¼lmÃ©nyt.</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/18648/"><img src="./styles/ImalÃ¡nc-a-csalÃ¡djainkÃ©rt-csalÃ¡dfÃ¡nkÃ©rt-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/18648/">ImalÃ¡nc</a></h4>SepsiszentgyÃ¶rgyre vÃ¡rnakâ€¦ imÃ¡dkozzunk a csalÃ¡djainkÃ©rt!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/tanev-kezdes/"><img src="./styles/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/tanev-kezdes/">TanÃ©vkezdÃ©s</a></h4>SzÃ©p szokÃ¡s kezd meghonosodni tanÃ©v kezdetÃ©n, akinek nincs iskolÃ¡ba jÃ¡rÃ³ gyermeke, unokÃ¡ja Ã©s aki teheti, hogy ne maradjon ki a tanÃ©vkezdÃ©s gyÃ¶nyÃ¶rÅ±sÃ©gÃ©bÅ‘l, tanszerrel ajÃ¡ndÃ©kozhatja meg azokat a gyerekeket, akiknek nehÃ©zsÃ©geik vannak a tanszerek beszerzÃ©sÃ©ben. DÃ©vÃ¡n ilyen szÃ©p halom â€œfegyverzetâ€ gyÅ±lt Ã¶ssze az Ãºj tanÃ©vben, mely mellÃ© ma 13.00 Ã³rÃ¡tÃ³l az iskolÃ¡bÃ³l jÃ¶vet a diÃ¡kok odarakjÃ¡k [â€¦]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./styles/ZarÃ¡ndok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/">MeghÃ­vÃ³ SokorÃ³pÃ¡tkÃ¡ra</a></h4></div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztÃ¡ban</a></h4>InterjÃº Csaba testvÃ©rrel Az Ã‰lÅvÃ­z c. vallÃ¡si mÅ±sor augusztusi adÃ¡sÃ¡ban, mÃ¡sodikkÃ©nt szerepel a bugaci interjÃº. (10.00 perctÅ‘l) Ã‰LÅVÃZ (2022. augusztus 10.) â€“ YouTube</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/regenybol-varat/"><img src="./styles/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/regenybol-varat/">RegÃ©nybÅ‘l vÃ¡ratâ€¦</a></h4>Gyermekeinknek Ã©pÃ­tsÃ¼nk regÃ©nybÅ‘l vÃ¡rat, hÃ­rbÅ‘l holnapot Ã©s szeretetbÅ‘l hazÃ¡t, hol jÃ³ a testvÃ©reknek egyÃ¼tt lakni! . â€AzÃ©rt vagyunk a vilÃ¡gon, hogy valahol otthon legyÃ¼nk benne.â€ JuhÃ¡sz Ferenc emÃ­gy bÃºcsÃºzott az Ã­rÃ³ temetÃ©sÃ©n:â€Ãbel utolsÃ³ kÃ¶nyvÃ©ben az Ã¶rdÃ¶gtÅ‘l-megszabadÃºlt fekete ember vÃ¡lasza Ãbel kÃ©rdÃ©sÃ©re, hogy mi cÃ©lra vagyunk a vilÃ¡gon? ez volt: Â»AzÃ©rt vagyunk a vilÃ¡gon, hogy valahol [â€¦]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-8/"><img src="./styles/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-8/">KÃ¶szÃ¶net</a></h4>KÃ¶szÃ¶net a Bethlen GÃ¡bor AlapkezelÅ‘ Zrt-nek A jelen tÃ¡mogatÃ¡st alapÃ­tvÃ¡nyunk bentlakÃ³ Ã©s napkÃ¶zi otthonaink mÅ±kÃ¶dÃ©sÃ©hez valÃ³ hozzÃ¡jÃ¡rulÃ¡sra kÃ©rtÃ¼k, mely elengedhetetlen volt a tÃ©l-tavaszi idÅ‘szakban felhalmozÃ³dÃ³ fÅ±tÃ©s szÃ¡mlÃ¡k fedezÃ©sÃ©re. Ezen tÃ¡mogatÃ¡s jÃ³voltÃ¡bÃ³l fedezni tudtuk az Ã¶sszes otthonunk gÃ¡z Ã©s Ã¡ramkÃ¶ltsÃ©geit, ezÃ¡ltal nehÃ©zsorsÃº gyermekeink biztonsÃ¡gos elhelyezÃ©sÃ©t. EzÃºton kÃ¶szÃ¶njÃ¼k gyermekeink nevÃ©ben Bethlen GÃ¡bor AlapkezelÅ‘ Zrt 26000000 Ft tÃ¡mogatÃ¡sÃ¡t, [â€¦]</div></li></ul></div></div>		           
 	</div>        
 	    
 	
@@ -253,7 +253,7 @@ img.emoji {
 
 											
 				<div class="block threecol-one footer-widget-1 ">
-		        	<div id="text-2" class="widget widget_text"><h3>Adományozás</h3>			<div class="textwidget">Alapítványunk online is fogad adományokat - <a target="_blank" href="http://adhat.hu/niok/online-donation/164928">kattintson ide</a>, ha segíteni szeretne!</div>
+		        	<div id="text-2" class="widget widget_text"><h3>AdomÃ¡nyozÃ¡s</h3>			<div class="textwidget">AlapÃ­tvÃ¡nyunk online is fogad adomÃ¡nyokat - <a target="_blank" href="http://adhat.hu/niok/online-donation/164928">kattintson ide</a>, ha segÃ­teni szeretne!</div>
 		</div>				</div>
 		
 			        											
@@ -261,18 +261,18 @@ img.emoji {
 		        	<div id="text-3" class="widget widget_text"><h3>Kapcsolat</h3>			<div class="textwidget"><p>E-mail: <a href="mailto:iroda@devaigyerekek.hu">iroda@devaigyerekek.hu</a><br>
 Telefon: +36-30/685-78-19<br>
 <a target="_blank" href="https://www.facebook.com/pages/Magnificatro-B%C3%B6jte-Csaba-OFM-D%C3%A9vai-Szent-Ferenc-Alap%C3%ADtv%C3%A1ny-honlapja/161816877193336?fref=ts">Facebook oldalunk</a><br>
-<a target="_blank" href="https://plus.google.com/communities/112038451241160591525">Google+ közösségünk</a></p>
+<a target="_blank" href="https://plus.google.com/communities/112038451241160591525">Google+ kÃ¶zÃ¶ssÃ©gÃ¼nk</a></p>
 </div>
 		</div>				</div>
 		
 			        											
 				<div class="block threecol-one footer-widget-3 last">
-		        	<div id="text-4" class="widget widget_text"><h3>Útravaló</h3>			<div class="textwidget">Töltse le az <a target="_blank" href="https://play.google.com/store/apps/details?id=tamas.magnificat.ro.hiteve&amp;feature=search_result#?t=W251bGwsMSwxLDEsInRhbWFzLm1hZ25pZmljYXQucm8uaGl0ZXZlIl0.">Ablak a világra</a> alkalmazást Androidra! Elérhetõ a Google Playen.</div>
+		        	<div id="text-4" class="widget widget_text"><h3>ÃštravalÃ³</h3>			<div class="textwidget">TÃ¶ltse le az <a target="_blank" href="https://play.google.com/store/apps/details?id=tamas.magnificat.ro.hiteve&amp;feature=search_result#?t=W251bGwsMSwxLDEsInRhbWFzLm1hZ25pZmljYXQucm8uaGl0ZXZlIl0.">Ablak a vilÃ¡gra</a> alkalmazÃ¡st Androidra! ElÃ©rhetÅ‘ a Google Playen.</div>
 		</div>				</div>
 		
 			        											
 				<div class="block threecol-one footer-widget-4 ">
-		        	<div id="text-6" class="widget widget_text"><h3>Spende</h3>			<div class="textwidget"><p>Sie können uns auch spenden:</p>
+		        	<div id="text-6" class="widget widget_text"><h3>Spende</h3>			<div class="textwidget"><p>Sie kÃ¶nnen uns auch spenden:</p>
 <p>IBAN: DE09 5004 0000 0736 3104 00<br>
 BIC: COBADEFFXXX</p>
 </div>
@@ -289,7 +289,7 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 		
 			        											
 				<div class="block threecol-one footer-widget-6 last">
-		        	<div id="text-8" class="widget widget_text"><h3>Android App</h3>			<div class="textwidget"><p>Die Android App  <a target="_blank" href="https://play.google.com/store/apps/details?id=tamas.magnificat.ro.hiteve&amp;feature=search_result#?t=W251bGwsMSwxLDEsInRhbWFzLm1hZ25pZmljYXQucm8uaGl0ZXZlIl0.">Fenster auf die Welt</a> können Sie mitnehmen. Erreichbar auf Google Play.</p>
+		        	<div id="text-8" class="widget widget_text"><h3>Android App</h3>			<div class="textwidget"><p>Die Android App  <a target="_blank" href="https://play.google.com/store/apps/details?id=tamas.magnificat.ro.hiteve&amp;feature=search_result#?t=W251bGwsMSwxLDEsInRhbWFzLm1hZ25pZmljYXQucm8uaGl0ZXZlIl0.">Fenster auf die Welt</a> kÃ¶nnen Sie mitnehmen. Erreichbar auf Google Play.</p>
 </div>
 		</div>				</div>
 		
@@ -303,7 +303,7 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 				</div>
 	
 				<div id="copyright" class="col-right">
-					Copyright © Szent Ferenc Alapítvány 2022				</div>			
+					Copyright Â© Szent Ferenc AlapÃ­tvÃ¡ny 2022				</div>			
 
 
 
@@ -317,14 +317,14 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 	</div>
 
 <!-- /#wrapper -->
-<!-- ngg_resource_manager_marker --><script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/comment-reply.min.js.letöltés"></script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/wp-embed.min.js.letöltés"></script>
+<!-- ngg_resource_manager_marker --><script type="text/javascript" src="./styles/comment-reply.min.js.letÃ¶ltÃ©s"></script>
+<script type="text/javascript" src="./styles/wp-embed.min.js.letÃ¶ltÃ©s"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var icl_vars = {"current_language":"hu","icl_home":"http:\/\/szentferencalapitvany.org\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./Szent Ferenc Alapítvány _ Kik vagyunk_files/sitepress.js.letöltés"></script>
+<script type="text/javascript" src="./styles/sitepress.js.letÃ¶ltÃ©s"></script>
 <!--[if lt IE 9]>
 <script src="http://szentferencalapitvany.org/wp-content/themes/szentferenc/includes/js/respond-IE.js"></script>
 <![endif]-->

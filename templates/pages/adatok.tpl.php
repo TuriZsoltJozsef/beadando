@@ -6,10 +6,32 @@
 </head>
 <body>
 <?php
+   if ($_SERVER['REQUEST_METHOD'] == 'POST'){
+   
+	$re = '/^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/'; 
+	if(!isset($_POST['cimzett']) || !preg_match($re,$_POST['cimzett']) || strlen($_POST['cimzett']) < 5 || strlen($_POST['cimzett']) > 30)
+	{
+		exit("Hibás email cím: ".$_POST['cimzett']);
+	}
+
+	if(!isset($_POST['targy']) || strlen($_POST['targy']) < 5 || strlen($_POST['targy']) > 50)
+	{
+		exit("Hibás tárgy: ".$_POST['targy']);
+	}
+	if(!isset($_POST['email']) || empty($_POST['email']) || strlen($_POST['email']) > 1000)
+	{
+		exit("Hibás email: ".$_POST['email']);
+	}
+	}
+    else{
+    header("location: ?oldal=kapcsolat");
+    }
+  ?>
+<?php
     if(isset($_POST['cimzett']) && isset($_POST['targy']) && isset($_POST['email'])) {
         try {
        
-       if($_SESSION['login']==""){
+       if(!isset($_SESSION['login'])){
        $_POST['kikuldte']="Vendég";
        }
        else{
@@ -65,5 +87,6 @@
 		echo "Tárgy: ".$_POST["targy"]."<br>";
 		echo "E-mail: ".$_POST["email"]."<br>";
 	?>
+    
 </body>
 </html>

@@ -25,7 +25,7 @@
 }
 
     /* (C) FULLSCREEN IMAGE */
-    .gallery img.full {
+    gallery img.full {
         position: fixed;
         top: 0;
         left: 0;

@@ -6,10 +6,10 @@
 
 <title>Szent Ferenc Alapítvány | Böjte Csaba OFM</title>
 
-<link rel="stylesheet" href="styles/language-selector.css" type="text/css" media="all">
+<link rel="stylesheet" href="./styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="styles/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="./styles/style.css" media="screen">
 <link rel="pingback" href="https://szentferencalapitvany.org/xmlrpc.php">
 <link href="./styles/css" rel="stylesheet" type="text/css">
 
@@ -459,6 +459,17 @@ var icl_vars = {"current_language":"hu","icl_home":"https:\/\/szentferencalapitv
 <!--[if lt IE 9]>
 <script src="https://szentferencalapitvany.org/wp-content/themes/szentferenc/includes/js/respond-IE.js"></script>
 <![endif]-->
+<video width="480" height="360" controls>
+  <source src="/img/video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/wtZzVPGGnnM">
+</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.8325066068146!2d19.009405199999996!3d47.49317619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741de847bb3ce0b%3A0xa7d83d9434b9be53!2sBudapest%2C%20M%C3%A1rtonhegyi%20%C3%BAt%2050c%2C%201124!5e0!3m2!1shu!2shu!4v1668012753911!5m2!1shu!2shu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
+<a target="_blank" href="https://www.google.com/maps/place/Budapest,+M%C3%A1rtonhegyi+%C3%BAt+50c,+1124/@47.4931762,19.0094052,17z/data=!3m1!4b1!4m5!3m4!1s0x4741de847bb3ce0b:0xa7d83d9434b9be53!8m2!3d47.4931762!4d19.0094052">Nagyobb térkép</a>
+
 
 </body></html>
 <a href="https://szentferencalapitvany.org/">https://szentferencalapitvany.org/</a>
