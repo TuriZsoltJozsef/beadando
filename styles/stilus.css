@@ -1,3 +1,56 @@
+/*.active {
+    font-weight: bold;
+    font-size: larger;
+}*/
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    margin: 5px;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.newsbox-content a {
+    text-decoration: none;
+}
+
+    .newsbox-content a:hover {
+        text-decoration: underline;
+
+    }
+.logo {
+
+}
+.nav li:nth-child(2n+1) {
+    background-color: #7f9bb1;
+}
+.nav li:nth-child(2n+2) {
+    background-color: #c685b1;
+}
+.nav li:nth-child(2n+3) {
+    background-color: #97b26d;
+}
+.nav li:nth-child(2n+4) {
+    background-color: #d2b461;
+}
+.nav li:nth-child(2n+5) {
+    background-color: #d26661;
+}
+.nav li:nth-child(2n+6) {
+    background-color: #5cc1b9;
+}
+.nav li:nth-child(2n+7) {
+    background-color: #7b5534;
+}
+.home-section#features ul li.feature2 h2 {
+    background: url(./images/box_headers_sprite.png) 0 -61px no-repeat;
+}
 /*  
 Theme Name: Dévai Szent Ferenc Alapítvány
 Version: 1.0
@@ -179,7 +232,7 @@ section {
 }
 
 body {
-    line-height: 1;
+    line-height:;
 }
 
 ol,
@@ -4535,3 +4588,5 @@ body.de #lang_sel img.iclflag {
     top: -5px;
     width: 18px;
 }
+
+<li id="menu-item-18558" class="mibenhiszunk menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18558 parent" >

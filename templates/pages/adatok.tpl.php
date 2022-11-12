@@ -24,7 +24,8 @@
 	}
 	}
     else{
-    header("location: ?oldal=kapcsolat");
+    echo"<script>alert('Az oldal csak az email kitöltése után elérhető'); window.location = '?oldal=kapcsolat';</script>";
+    /*header("location: ?oldal=kapcsolat");*/
     }
   ?>
 <?php

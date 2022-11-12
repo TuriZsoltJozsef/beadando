@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="./styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="./styles/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="./styles/styles.css" media="screen">
 <link rel="pingback" href="http://szentferencalapitvany.org/xmlrpc.php">
 <link href="./styles/css" rel="stylesheet" type="text/css">
 
@@ -102,9 +102,9 @@ img.emoji {
 				
 		</div><!--/.top_menu_search-->
 	
-				<a id="logo" href="http://szentferencalapitvany.org/" title="Böjte Csaba OFM">
-                    <img src="./styles/logo.png" alt="Szent Ferenc Alapítvány">
-                </a>
+				<!--<a id="logo" href="." title="Böjte Csaba OFM">
+                    <img src="./images/logo.png" alt="Szent Ferenc Alapítvány">
+                </a>-->
 		
 		<div id="search-social">
 			<div class="social-icons">
@@ -122,52 +122,11 @@ img.emoji {
 </div><!--/.search_main-->
 		</div>
 		
-		<nav id="navigation" role="navigation" class="parent">
 		
-			<ul id="main-nav" class="nav parent"><li id="menu-item-17056" class="kikvagyunk menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-has-children menu-item-17056 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/">Kik vagyunk</a>
-<ul class="sub-menu">
-	<li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="http://szentferencalapitvany.org/miben-hiszunk/">Miben hiszünk</a></li>
-	<li id="menu-item-17055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17055"><a href="http://szentferencalapitvany.org/keptar/hazaink/">Házaink</a></li>
-	<li id="menu-item-17057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17057"><a href="http://szentferencalapitvany.org/kik-vagyunk/az-alapitvanyrol/">Dévai Szent Ferenc Alapítvány (Bp)</a></li>
-	<li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="http://szentferencalapitvany.org/kik-vagyunk/alapitvanyunk-tortenete/">Alapítványunk története</a></li>
-</ul>
-</li>
-<li id="menu-item-18558" class="mibenhiszunk menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18558 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/#">Gyermekvédeklem</a>
-<ul class="sub-menu">
-	<li id="menu-item-18562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18562"><a href="http://szentferencalapitvany.org/kuratorium-allasfoglalasa/">Kuratórium állásfoglalása</a></li>
-	<li id="menu-item-18561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18561"><a href="http://szentferencalapitvany.org/hova-forduljak-gyermekvedelmi-jelzorendszer/">Hova forduljak?</a></li>
-	<li id="menu-item-18560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18560"><a href="http://szentferencalapitvany.org/gyermekvedelmi-testulet/">Gyermekvédelmi testület</a></li>
-	<li id="menu-item-18559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18559"><a href="http://szentferencalapitvany.org/szakmai-anyagok/">Szakmai anyagok</a></li>
-</ul>
-</li>
-<li id="menu-item-17060" class="igyelunk menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17060 parent"><a href="http://szentferencalapitvany.org/igy-elunk/">Így élünk</a>
-<ul class="sub-menu">
-	<li id="menu-item-17071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17071"><a href="http://szentferencalapitvany.org/kategoria/hirek-esemenyek/">Hírek, események</a></li>
-	<li id="menu-item-17072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17072"><a href="http://szentferencalapitvany.org/kategoria/bojte-csaba-elmelkedesei/">Böjte Csaba elmélkedései</a></li>
-	<li id="menu-item-17073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17073"><a href="http://szentferencalapitvany.org/kategoria/neveloink-irtak/">Nevelőink írták</a></li>
-	<li id="menu-item-17074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17074"><a href="http://szentferencalapitvany.org/kategoria/gyerekeink-irtak/">Gyerekeink írták</a></li>
-</ul>
-</li>
-<li id="menu-item-17061" class="hogyansegithetsz menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17061 parent"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/">Hogyan segíthetsz</a>
-<ul class="sub-menu">
-	<li id="menu-item-17062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17062"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/onkentesseg/">Önkéntesség</a></li>
-	<li id="menu-item-17063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17063"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/adomanyok/">Adományok</a></li>
-	<li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="http://szentferencalapitvany.org/hogyan-segithetsz/keresztszuloi-programunk/">Keresztszülői programunk</a></li>
-</ul>
-</li>
-<li id="menu-item-17065" class="elerhetoseg menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17065 parent"><a href="http://szentferencalapitvany.org/kik-vagyunk/#">Kapcsolat</a>
-<ul class="sub-menu">
-	<li id="menu-item-17066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17066"><a href="http://szentferencalapitvany.org/kapcsolat/">Elérhetőségeink (Budapest)</a></li>
-	<li id="menu-item-17067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17067"><a href="http://szentferencalapitvany.org/elerhetosegeink-deva-2/">Elérhetőségeink (Déva)</a></li>
-	<li id="menu-item-17068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17068"><a href="http://szentferencalapitvany.org/kapcsolat/vendeglatas/">Vendéglátás</a></li>
-	<li id="menu-item-17069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17069"><a href="http://szentferencalapitvany.org/kapcsolat/sajtoszoba/">Sajtószoba</a></li>
-</ul>
-</li>
-</ul>	
-		</nav><!-- /#navigation -->
-		
+	
 				        		
 	</div>
+	
 	
 	</header><!-- /#header -->
        
@@ -221,13 +180,13 @@ img.emoji {
     <ul>
         <li><a href="http://szentferencalapitvany.org/kik-vagyunk/#" class="lang_sel_sel icl-hu">
                             
-            <img class="iclflag" src="./styles/hu.png" alt="hu" title="Magyar">                                
+            <img class="iclflag" src="./images/hu.png" alt="hu" title="Magyar">                                
             &nbsp;<span class="icl_lang_sel_current">Magyar</span></a>                                    
             <ul>
                                                 <li class="icl-de">          
                     <a href="http://szentferencalapitvany.org/de/wer-sind-wir/">
                                     
-                    <img class="iclflag" src="./styles/de.png" alt="de" title="német">&nbsp;                    
+                    <img class="iclflag" src="./images/de.png" alt="de" title="német">&nbsp;                    
                                         <span class="icl_lang_sel_native">Deutsch</span> <span class="icl_lang_sel_translated"><span class="icl_lang_sel_native">(</span>német<span class="icl_lang_sel_native">)</span></span>                    </a>
                 </li>
                             </ul>            
@@ -235,8 +194,8 @@ img.emoji {
                     </li>
     </ul>    
 </div>
-</div><div id="text-5" class="widget widget_text"><h3>Video</h3>			<div class="textwidget"><iframe src="./styles/wtZzVPGGnnM.html" frameborder="0" allowfullscreen=""></iframe></div>
-		</div><div id="dzs_latestpost_widget-2" class="widget dzs_latestpost_widget"><h3>News</h3><div id="newsbox" class=""><ul><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-9/"><img src="./styles/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/18648/"><img src="./styles/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/tanev-kezdes/"><img src="./styles/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./styles/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/regenybol-varat/"><img src="./styles/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-8/"><img src="./styles/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li></ul></div></div>		           
+</div><div id="text-5" class="widget widget_text"><h3></h3>			<div class="textwidget"><!--<iframe src="./styles/wtZzVPGGnnM.html" frameborder="0" allowfullscreen=""></iframe>--></div>
+		</div><div id="dzs_latestpost_widget-2" class="widget dzs_latestpost_widget"><h3>News</h3><div id="newsbox" class=""><ul><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-9/"><img src="./images/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/18648/"><img src="./images/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/tanev-kezdes/"><img src="./images/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./images/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/regenybol-varat/"><img src="./images/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="http://szentferencalapitvany.org/koszonet-8/"><img src="./images/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="http://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li></ul></div></div>		           
 	</div>        
 	    
 	
@@ -302,8 +261,8 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 										
 				</div>
 	
-				<div id="copyright" class="col-right">
-					Copyright © Szent Ferenc Alapítvány 2022				</div>			
+				<!--<div id="copyright" class="col-right">
+					Copyright © Szent Ferenc Alapítvány 2022				</div>	-->		
 
 
 

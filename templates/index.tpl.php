@@ -11,9 +11,9 @@
 
 	<?php if(file_exists('./styles/'.$keres['fajl'].'.css')) { ?><link rel="stylesheet" href="./styles/<?= $keres['fajl']?>.css" type="text/css"><?php } ?>
 </head>
-<body>
+<body style="background: url(https://szentferencalapitvany.org/wp-content/themes/szentferenc/images/devai-szentferenc-bg-1.jpg ) center 0 no-repeat;">
 	<header>
-		<img src="./images/<?=$fejlec['kepforras']?>" alt="<?=$fejlec['kepalt']?>">
+		<div class="logo"><a href="."><img src="./images/<?=$fejlec['kepforras']?>" alt="<?=$fejlec['kepalt']?>"></a></div>
 		<h1><?= $fejlec['cim'] ?></h1>
 		<?php if (isset($fejlec['motto'])) { ?><h2><?= $fejlec['motto'] ?></h2><?php } ?>
 		<?php if(isset($_SESSION['login'])) { ?>Bejlentkezve: <strong><?= $_SESSION['csn']." ".$_SESSION['un']." (".$_SESSION['login'].")" ?></strong><?php } ?>
@@ -21,10 +21,10 @@
     <div id="wrapper">
         <aside id="nav">
             <nav>
-                <ul>
+                <ul class="nav">
 					<?php foreach ($oldalak as $url => $oldal) { ?>
 						<?php if(! isset($_SESSION['login']) && $oldal['menun'][0] || isset($_SESSION['login']) && $oldal['menun'][1]) { ?>
-							<li<?= (($oldal == $keres) ? ' class="active"' : '') ?>>
+							<li <?= (($oldal == $keres) ? ' class="active"' : '') ?>>
 							<a href="<?= ($url == '/') ? '.' : ('?oldal=' . $url) ?>">
 							<?= $oldal['szoveg'] ?></a>
 							</li>
@@ -37,8 +37,8 @@
             <?php include("./templates/pages/{$keres['fajl']}.tpl.php"); ?>
         </div>
     </div>
-    <footer>
-        <?php if(isset($lablec['copyright'])) { ?>&copy;&nbsp;<?= $lablec['copyright'] ?> <?php } ?>
+    <footer id="copyright">
+        <?php if(isset($lablec['copyright'])) { ?><?= $lablec['copyright'] ?>&nbsp;&copy;&nbsp; <?php } ?>
 		&nbsp;
         <?php if(isset($lablec['ceg'])) { ?><?= $lablec['ceg']; ?><?php } ?>
 		<a href="https://szentferencalapitvany.org/">https://szentferencalapitvany.org/</a>

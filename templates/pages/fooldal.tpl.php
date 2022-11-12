@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="./styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="./styles/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="./styles/stylew.css" media="screen">
 <link rel="pingback" href="https://szentferencalapitvany.org/xmlrpc.php">
 <link href="./styles/css" rel="stylesheet" type="text/css">
 
@@ -103,9 +103,9 @@ img.emoji {
 				
 		</div><!--/.top_menu_search-->
 	
-				<a id="logo" href="https://szentferencalapitvany.org/" title="Böjte Csaba OFM">
+		<!--		<a id="logo" href="." title="Böjte Csaba OFM">
                     <img src="./images/logo.png" alt="Szent Ferenc Alapítvány">
-                </a>
+                </a>-->
 		
 		<div id="search-social">
 			<div class="social-icons">
@@ -123,47 +123,7 @@ img.emoji {
 </div><!--/.search_main-->
 		</div>
 		
-		<nav id="navigation" role="navigation" class="parent">
 		
-			<ul id="main-nav" class="nav parent"><li id="menu-item-17056" class="kikvagyunk menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17056 parent"><a href="https://szentferencalapitvany.org/kik-vagyunk/">Kik vagyunk</a>
-<ul class="sub-menu">
-	<li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="https://szentferencalapitvany.org/miben-hiszunk/">Miben hiszünk</a></li>
-	<li id="menu-item-17055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17055"><a href="https://szentferencalapitvany.org/keptar/hazaink/">Házaink</a></li>
-	<li id="menu-item-17057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17057"><a href="https://szentferencalapitvany.org/kik-vagyunk/az-alapitvanyrol/">Dévai Szent Ferenc Alapítvány (Bp)</a></li>
-	<li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="https://szentferencalapitvany.org/kik-vagyunk/alapitvanyunk-tortenete/">Alapítványunk története</a></li>
-</ul>
-</li>
-<li id="menu-item-18558" class="mibenhiszunk menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18558 parent"><a href="https://szentferencalapitvany.org/#">Gyermekvédeklem</a>
-<ul class="sub-menu">
-	<li id="menu-item-18562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18562"><a href="https://szentferencalapitvany.org/kuratorium-allasfoglalasa/">Kuratórium állásfoglalása</a></li>
-	<li id="menu-item-18561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18561"><a href="https://szentferencalapitvany.org/hova-forduljak-gyermekvedelmi-jelzorendszer/">Hova forduljak?</a></li>
-	<li id="menu-item-18560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18560"><a href="https://szentferencalapitvany.org/gyermekvedelmi-testulet/">Gyermekvédelmi testület</a></li>
-	<li id="menu-item-18559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18559"><a href="https://szentferencalapitvany.org/szakmai-anyagok/">Szakmai anyagok</a></li>
-</ul>
-</li>
-<li id="menu-item-17060" class="igyelunk menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17060 parent"><a href="https://szentferencalapitvany.org/igy-elunk/">Így élünk</a>
-<ul class="sub-menu">
-	<li id="menu-item-17071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17071"><a href="https://szentferencalapitvany.org/kategoria/hirek-esemenyek/">Hírek, események</a></li>
-	<li id="menu-item-17072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17072"><a href="https://szentferencalapitvany.org/kategoria/bojte-csaba-elmelkedesei/">Böjte Csaba elmélkedései</a></li>
-	<li id="menu-item-17073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17073"><a href="https://szentferencalapitvany.org/kategoria/neveloink-irtak/">Nevelőink írták</a></li>
-	<li id="menu-item-17074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17074"><a href="https://szentferencalapitvany.org/kategoria/gyerekeink-irtak/">Gyerekeink írták</a></li>
-</ul>
-</li>
-<li id="menu-item-17061" class="hogyansegithetsz menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17061 parent"><a href="https://szentferencalapitvany.org/hogyan-segithetsz/">Hogyan segíthetsz</a>
-<ul class="sub-menu">
-	<li id="menu-item-17062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17062"><a href="https://szentferencalapitvany.org/hogyan-segithetsz/onkentesseg/">Önkéntesség</a></li>
-	<li id="menu-item-17063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17063"><a href="https://szentferencalapitvany.org/hogyan-segithetsz/adomanyok/">Adományok</a></li>
-	<li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="https://szentferencalapitvany.org/hogyan-segithetsz/keresztszuloi-programunk/">Keresztszülői programunk</a></li>
-</ul>
-</li>
-<li id="menu-item-17065" class="elerhetoseg menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17065 parent"><a href="https://szentferencalapitvany.org/#">Kapcsolat</a>
-<ul class="sub-menu">
-	<li id="menu-item-17066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17066"><a href="https://szentferencalapitvany.org/kapcsolat/">Elérhetőségeink (Budapest)</a></li>
-	<li id="menu-item-17067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17067"><a href="https://szentferencalapitvany.org/elerhetosegeink-deva-2/">Elérhetőségeink (Déva)</a></li>
-	<li id="menu-item-17068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17068"><a href="https://szentferencalapitvany.org/kapcsolat/vendeglatas/">Vendéglátás</a></li>
-	<li id="menu-item-17069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17069"><a href="https://szentferencalapitvany.org/kapcsolat/sajtoszoba/">Sajtószoba</a></li>
-</ul>
-</li>
 </ul>	
 		</nav><!-- /#navigation -->
 		
@@ -177,153 +137,213 @@ img.emoji {
 
 
     
-    <div id="slider" class="home-section  fix">
+    <div id="slider" class="home-section  fix slideshow-container">
    
-    <section id="featured-1" class="featured ">	
+    <section id="featured-1" class="featured">	
 	    <ul class="slides fix">	        
                 
 	            
-	            <li id="slide-1" class="slide slide-id-10659 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/utcagyerek/" rel="bookmark" title="Útcagyerek">
-	        				<img src="./images/Devai_carussel_2017_Utcagyerek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Utcagyerek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-2" class="slide slide-id-10657 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/neveles/" rel="bookmark" title="Nevelés">
-	        				<img src="./images/Devai_carussel_2017_Neveles.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Neveles-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-3" class="slide slide-id-10656 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/jelszavunk/" rel="bookmark" title="Jelszavunk">
-	        				<img src="./images/Devai_carussel_2017_Jelszavunk.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2017/09/Devai_carussel_2017_Jelszavunk-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-4" class="slide slide-id-7832 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="http://szentferencalapitvany.org/2014/04/29/1/" rel="bookmark" title="Ado 1% 2016">
-	        				<img src="./images/Devai_carussel_2016_ado1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2016_ado1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-5" class="slide slide-id-7743 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="http://keresztanya.blog.hu/" rel="bookmark" title="Fogadott keresztanya blog 2">
-	        				<img src="./images/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2016/02/Devai_carussel_2015_II_keresztszuloblog_micimacko-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-6" class="slide slide-id-7154 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/ajandek-nemetul/" rel="bookmark" title="Ajándék németül">
-	        				<img src="./images/Devai_carussel_2015_II_ajandek_de.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/10/Devai_carussel_2015_II_ajandek_de-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-7" class="slide slide-id-7060 " style="width: 100%; float: left; margin-right: -100%; display: none;">
-	        		
-    				    				    	    			        					<a class="" href="https://szentferencalapitvany.org/slide/ajandek/" rel="bookmark" title="Ajándék">
-	        				<img src="./images/Devai_carussel_2015_II_ajandek.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/09/Devai_carussel_2015_II_ajandek-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
-			    
-	            
-	            <li id="slide-8" class="slide slide-id-6751 " style="width: 100%; float: left; margin-right: -100%; display: list-item;">
-	        		
-    				    				    	    			        					<a class="" href="https://www.youtube.com/watch?v=nnGx7XrVXFw" rel="bookmark" title="A vilag gyermekszemmel">
-	        				<img src="./images/Devai_carussel_2015_1szazalek1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1.jpg 980w, https://szentferencalapitvany.org/wp-content/uploads/2015/05/Devai_carussel_2015_1szazalek1-300x140.jpg 300w" sizes="(max-width: 980px) 100vw, 980px"></a>
-    	    		    	    		
-	    	    		            	
-	            </li><!--/.slide-->
-	            
 			 
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 8</div>
+    <li><img src="./images/Devai_carussel_2017_Utcagyerek.jpg" style="width:100%"></li>
+   
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 8</div>
+    <li><img src="./images/Devai_carussel_2017_Neveles.jpg" style="width:100%"></li>
+
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 8 </div>
+    <li><img src="./images/Devai_carussel_2017_Jelszavunk.jpg" style="width:100%"></li>
+    
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 8</div>
+    <li><img src="./images/Devai_carussel_2016_ado1.jpg" style="width:100%"></li>
+ 
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 8</div>
+    <li><img src="./images/Devai_carussel_2015_II_keresztszuloblog_micimacko.jpg" style="width:100%"></li>
+
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 8</div>
+    <li><img src="./images/Devai_carussel_2015_II_ajandek_de.jpg" style="width:100%"></li>
+   
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 8</div>
+    <li><img src="./images/Devai_carussel_2015_II_ajandek.jpg" style="width:100%"></li>
+    
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 8</div>
+    <li><img src="./images/Devai_carussel_2015_1szazalek1.jpg" style="width:100%"></li>
+    
+  </div>
+  </ul><!-- /.slides -->
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+</div>
 			
-	    </ul><!-- /.slides -->
+	    
 	    
 	</section><!-- /#featured -->
-	<ol class="flex-control-nav"><li><a class="">1</a></li><li><a class="">2</a></li><li><a class="">3</a></li><li><a class="">4</a></li><li><a class="">5</a></li><li><a class="">6</a></li><li><a class="">7</a></li><li><a class="active">8</a></li></ol></div>
-
+	<!--<ol class="flex-control-nav"><li><a class="">1</a></li><li><a class="">2</a></li><li><a class="">3</a></li><li><a class="">4</a></li><li><a class="">5</a></li><li><a class="">6</a></li><li><a class="">7</a></li><li><a class="active">8</a></li></ol></div>
+	-->
 
 <script type="text/javascript">
-var tag = document.createElement('script');
-tag.src = "http://www.youtube.com/player_api";
-var firstScriptTag = document.getElementsByTagName('script')[0];
-firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-jQuery(window).load(function() {
-  
-	jQuery('#featured-1').flexslider({
-   		/* slideDirection: "", */
-   		animation: "fade",
-   		controlsContainer: "#slider.home-section",
-   		slideshow: true,
-   		directionNav: false,
-   		controlNav: true,
-   		pauseOnHover: true,
-   		slideshowSpeed: 7000, 
-   		animationDuration: 600,
-		before: function(slider){
-			if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0)
-			playVideoAndPauseOthers(jQuery('.videoPlayer iframe')[0]);
-		}
-   	});
-	
-	function playVideoAndPauseOthers(frame) {
-		jQuery('iframe').each(function(i) {
-			var func = this === frame ? 'playVideo' : 'stopVideo';
-			this.contentWindow.postMessage('{"event":"command","func":"' + func + '","args":""}', '*');
-		});
-	}
-	
-	// jQuery('.flex-control-nav').click(function() {
-		// playVideoAndPauseOthers(jQuery('.videoPlayer iframe')[0]);
-	// });
-	
-	function controlSlider(event) {
-		var playerstate=event.data;
-		console.log(playerstate);
-		if(playerstate==1 || playerstate==3){
-			jQuery('#featured-1').flexslider("pause");
-		};
-		if(playerstate==0 || playerstate==2){
-			jQuery('#featured-1').flexslider("play");
-		};
-	};
+var slideIndex = 1;
+var timer = null;
+showSlides(slideIndex);
 
-	var player = new YT.Player('youtubevideo', {
-		events: {
-		  'onStateChange': function(event) { controlSlider(event); }
-		}
-	}); 
-	
-   	jQuery('#featured-1').addClass('loaded');
-});
+function plusSlides(n) {
+  clearTimeout(timer);
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  clearTimeout(timer);
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n==undefined){n = ++slideIndex}
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+	  slides[i].onmouseover = pauseSlides;
+   slides[i].onmouseout = resumeSlides;
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  timer = setTimeout(showSlides, 7000);
+} 
+function pauseSlides()
+{
+    clearTimeout(timer); // Clear the interval we set earlier
+}
+function resumeSlides()
+{
+    timer = setTimeout(showSlides, 7000);
+}
 </script>
+<style>* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}</style>
 
  
 			
@@ -364,7 +384,7 @@ jQuery(window).load(function() {
 
         
     	    	
-    		<p></p><div id="newsbox" class="threecol-two"><h2>Friss</h2><ul><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-9/"><img src="./images/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/18648/"><img src="./images/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/tanev-kezdes/"><img src="./images/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./images/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/regenybol-varat/"><img src="./images/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-8/"><img src="./images/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-biciklizes/"><img src="./images/IMG_0423-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-biciklizes/">A biciklizés…</a></h4>„A biciklizés a bolygónk lassú halála” – ezzel a frappáns felütéssel indul az Urban Cycling Institute posztja. Ami egy bankár gondolkodásmódját idézi. „Egy biciklista katasztrófa az ország gazdaságára nézve: nem vesz autót, és nem is vesz fel hitelt, hogy autót vehessen. Nem fizet biztosítást. Nem vásárol folyamatosan benzint, nem költ az autó karbantartására, javítására. Nem […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/"><img src="./images/aNévtelen-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/">Szentmise és hangverseny Várpalotán</a></h4>&nbsp; Böjte Csaba testvér és gyermekekből álló 60 fős énekkar a Várpalotai Nagyboldogasszony templomban. Szentmise: https://www.youtube.com/watch?v=6GC1XQK8JrA&amp;t=2275s . . Alsó kép: Gabriella karnagy a Marosszéki Kodály Zoltán kórussal a zirci apátság&nbsp;templomában.</div></li></ul></div><div class="threecol-one last"><div id="youtube-box"><h2>Déváról</h2><div class="youtube-video"><iframe width="280" height="189" src="./images/vvdo9DUK0kM.html" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe></div></div><div class="standard-block "><h2>Történetünk</h2><div class="stblock-content"><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Csaba_testver_Nagy_Csaladja.pdf" target="_blank" rel="noopener noreferrer">Csaba testvér nagy családja</a><p></p>
+    		<p></p><div id="newsbox" class="threecol-two"><h2>Friss</h2><ul><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/kopp-maria-setany/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/kopp-maria-setany/">Kopp Mária sétány</a></h4>„Furcsa lesz anyukám útján lépkedni”&nbsp; A gyümölcs érik! Nagyszerű hír!! https://mandiner.hu/cikk/20221027_belfold_kopp_maria_setany_normafa_hegyvidek_budapest</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-9/"><img src="./images/bga_alap_logo-150x150.png"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-9/">Köszönet</a></h4>&nbsp; A Bethlen Gábor Alapkezelő Zrt 15.000.000 Ft támogatásával a Szent Ferenc Alapítvány több otthonában sikerült a télre szükséges tűzifát megvásárolni. A Szent Ferenc Alapítvány ezúton is köszönetet mond a Bethlen Gábor Alapkezelő Zrt-nek, melyek támogatása révén több száz nehéz sorsú erdélyi magyar gyermek számára biztosítottak meleg otthont, kényelmes lakókörülményt.</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/18648/"><img src="./images/Imalánc-a-családjainkért-családfánkért-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/18648/">Imalánc</a></h4>Sepsiszentgyörgyre várnak… imádkozzunk a családjainkért!! Bizalommal, Csaba t. .</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/tanev-kezdes/"><img src="./images/IMG_5845-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/tanev-kezdes/">Tanévkezdés</a></h4>Szép szokás kezd meghonosodni tanév kezdetén, akinek nincs iskolába járó gyermeke, unokája és aki teheti, hogy ne maradjon ki a tanévkezdés gyönyörűségéből, tanszerrel ajándékozhatja meg azokat a gyerekeket, akiknek nehézségeik vannak a tanszerek beszerzésében. Déván ilyen szép halom “fegyverzet” gyűlt össze az új tanévben, mely mellé ma 13.00 órától az iskolából jövet a diákok odarakják […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/"><img src="./images/Zarándok-Mise-Terv-22-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/meghivo-sokoropatkara/">Meghívó Sokorópátkára</a></h4></div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-bugaci-pusztaban/">A Bugaci pusztában</a></h4>Interjú Csaba testvérrel Az ÉlŐvíz c. vallási műsor augusztusi adásában, másodikként szerepel a bugaci interjú. (10.00 perctől) ÉLŐVÍZ (2022. augusztus 10.) – YouTube</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/regenybol-varat/"><img src="./images/IMG_0360-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/regenybol-varat/">Regényből várat…</a></h4>Gyermekeinknek építsünk regényből várat, hírből holnapot és szeretetből hazát, hol jó a testvéreknek együtt lakni! . „Azért vagyunk a világon, hogy valahol otthon legyünk benne.” Juhász Ferenc emígy búcsúzott az író temetésén:„Ábel utolsó könyvében az ördögtől-megszabadúlt fekete ember válasza Ábel kérdésére, hogy mi célra vagyunk a világon? ez volt: »Azért vagyunk a világon, hogy valahol […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/koszonet-8/"><img src="./images/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/koszonet-8/">Köszönet</a></h4>Köszönet a Bethlen Gábor Alapkezelő Zrt-nek A jelen támogatást alapítványunk bentlakó és napközi otthonaink működéséhez való hozzájárulásra kértük, mely elengedhetetlen volt a tél-tavaszi időszakban felhalmozódó fűtés számlák fedezésére. Ezen támogatás jóvoltából fedezni tudtuk az összes otthonunk gáz és áramköltségeit, ezáltal nehézsorsú gyermekeink biztonságos elhelyezését. Ezúton köszönjük gyermekeink nevében Bethlen Gábor Alapkezelő Zrt 26000000 Ft támogatását, […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/a-biciklizes/"><img src="./images/IMG_0423-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/a-biciklizes/">A biciklizés…</a></h4>„A biciklizés a bolygónk lassú halála” – ezzel a frappáns felütéssel indul az Urban Cycling Institute posztja. Ami egy bankár gondolkodásmódját idézi. „Egy biciklista katasztrófa az ország gazdaságára nézve: nem vesz autót, és nem is vesz fel hitelt, hogy autót vehessen. Nem fizet biztosítást. Nem vásárol folyamatosan benzint, nem költ az autó karbantartására, javítására. Nem […]</div></li><li><div class="newsbox-image"><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/"><img src="./images/aNévtelen-150x150.jpg"></a></div><div class="newsbox-content"><h4><a href="https://szentferencalapitvany.org/szentmise-es-hangverseny-varpalotan/">Szentmise és hangverseny Várpalotán</a></h4>&nbsp; Böjte Csaba testvér és gyermekekből álló 60 fős énekkar a Várpalotai Nagyboldogasszony templomban. Szentmise: https://www.youtube.com/watch?v=6GC1XQK8JrA&amp;t=2275s . . Alsó kép: Gabriella karnagy a Marosszéki Kodály Zoltán kórussal a zirci apátság&nbsp;templomában.</div></li></ul></div><div class="threecol-one last"><div id="youtube-box"><h2>Videók</h2><div class="youtube-video"><video width="280" height="189" controls><source src="/img/video.mp4" type="video/mp4">Your browser does not support the video tag.</video><iframe width="280" height="189"src="https://www.youtube.com/embed/wtZzVPGGnnM"></iframe><!--<iframe width="280" height="189" src="./images/vvdo9DUK0kM.html" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>--></div></div><div class="standard-block "><h2>Történetünk</h2><div class="stblock-content"><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Csaba_testver_Nagy_Csaladja.pdf" target="_blank" rel="noopener noreferrer">Csaba testvér nagy családja</a><p></p>
 <p><a class="file-download" href="http://www.szentferencalapitvany.org/wp-content/uploads/2014/10/Father_Csaba_Big_Family_Gorssefamilie_von_Pater_Csaba.pdf" target="_blank" rel="noopener noreferrer">Father csaba’s big family<br>
 Die Grossfamilie von Pater Csaba</a></p></div></div><div class="standard-block mission-website"><h2>Csaba testvér missziós honlapja</h2><div class="stblock-content"><a class="magnificat-link" href="http://www.magnificat.ro/portal/">magnificat.ro</a></div></div></div><p></p>
 
@@ -423,7 +443,8 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 </div>
 		</div>				</div>
 		
-			        						
+			        				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.8325066068146!2d19.009405199999996!3d47.49317619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741de847bb3ce0b%3A0xa7d83d9434b9be53!2sBudapest%2C%20M%C3%A1rtonhegyi%20%C3%BAt%2050c%2C%201124!5e0!3m2!1shu!2shu!4v1668012753911!5m2!1shu!2shu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		
 			</section><!-- /#footer-widgets  -->
 					<footer id="footer" class="fix">
 			
@@ -432,8 +453,8 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 										
 				</div>
 	
-				<div id="copyright" class="col-right">
-					Copyright © Szent Ferenc Alapítvány 2022				</div>			
+				<!--<div id="copyright" class="col-right">
+					Copyright © Szent Ferenc Alapítvány 2022				</div>		-->	
 
 
 
@@ -459,17 +480,8 @@ var icl_vars = {"current_language":"hu","icl_home":"https:\/\/szentferencalapitv
 <!--[if lt IE 9]>
 <script src="https://szentferencalapitvany.org/wp-content/themes/szentferenc/includes/js/respond-IE.js"></script>
 <![endif]-->
-<video width="480" height="360" controls>
-  <source src="/img/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/wtZzVPGGnnM">
-</iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.8325066068146!2d19.009405199999996!3d47.49317619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741de847bb3ce0b%3A0xa7d83d9434b9be53!2sBudapest%2C%20M%C3%A1rtonhegyi%20%C3%BAt%2050c%2C%201124!5e0!3m2!1shu!2shu!4v1668012753911!5m2!1shu!2shu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
-<a target="_blank" href="https://www.google.com/maps/place/Budapest,+M%C3%A1rtonhegyi+%C3%BAt+50c,+1124/@47.4931762,19.0094052,17z/data=!3m1!4b1!4m5!3m4!1s0x4741de847bb3ce0b:0xa7d83d9434b9be53!8m2!3d47.4931762!4d19.0094052">Nagyobb térkép</a>
-
+<!--<a target="_blank" href="https://www.google.com/maps/place/Budapest,+M%C3%A1rtonhegyi+%C3%BAt+50c,+1124/@47.4931762,19.0094052,17z/data=!3m1!4b1!4m5!3m4!1s0x4741de847bb3ce0b:0xa7d83d9434b9be53!8m2!3d47.4931762!4d19.0094052">Nagyobb térkép</a>
+-->
 
 </body></html>
-<a href="https://szentferencalapitvany.org/">https://szentferencalapitvany.org/</a>

@@ -11,7 +11,7 @@ $fejlec = array(
 );
 
 $lablec = array(
-    'copyright' => 'COPYRIGHT © ',
+    'copyright' => 'COPYRIGHT',
     'ceg' => 'Szent Ferenc Alapítvány'
 );
 
