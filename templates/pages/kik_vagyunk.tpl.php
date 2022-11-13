@@ -83,7 +83,7 @@ img.emoji {
 
 
 <body class="page-template-default page page-id-2 page-parent hu chrome layout-left-content parent" style="background: url(http://szentferencalapitvany.org/wp-content/themes/szentferenc/images/devai-szentferenc-bg-3.jpg ) center 0 no-repeat;">
-
+<!--
 <div id="wrapper" class="parent">
 	
 	
@@ -99,13 +99,13 @@ img.emoji {
 					<input type="image" src="http://szentferencalapitvany.org/wp-content/themes/szentferenc/images/ico-search.png" class="search-submit" name="submit" alt="Submit" />
 				</form>   
 			</div><!--/.search_main-->
-				
+			<!--	
 		</div><!--/.top_menu_search-->
 	
 				<!--<a id="logo" href="." title="Böjte Csaba OFM">
                     <img src="./images/logo.png" alt="Szent Ferenc Alapítvány">
                 </a>-->
-		
+		<!--
 		<div id="search-social">
 			<div class="social-icons">
 				<a class="magyarver" target="_blank" href="http://szentferencalapitvany.org/">Magyar</a>
@@ -120,7 +120,7 @@ img.emoji {
         <input type="submit" value="Keresés" class="search-submit" name="submit" alt="Submit">
     </form>    
 </div><!--/.search_main-->
-		</div>
+		<!--</div>
 		
 		
 	

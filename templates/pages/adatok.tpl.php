@@ -41,13 +41,12 @@
        $_POST['kuldesideje']= date("Y-m-d H:i:s");
             // Kapcsolódás
             
-            $dbh = new PDO('mysql:host=localhost;dbname=gyakorlat7', 'root', '',
+            $dbh = new PDO('mysql:host=mysql.omega;port=3306;dbname=beadandoroot', 'beadandoroot', 'rootjelszo12',
                             array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
             $dbh->query('SET NAMES utf8 COLLATE utf8_hungarian_ci');
-            
             // Létezik már a felhasználói név?
             //$sqlCreate = "CREATE TABLE IF NOT EXISTS `email` ( `id` INT UNSIGNED NOT NULL AUTO_INCREMENT , `cimzett` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `targy` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `email` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;";
-            $sqlCreate="CREATE TABLE IF NOT EXISTS `email2` ( `id` INT UNSIGNED NOT NULL AUTO_INCREMENT , `cimzett` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `targy` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `email` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `kuldesideje` DATETIME NOT NULL , `kikuldte` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;";
+            $sqlCreate="CREATE TABLE IF NOT EXISTS `email` ( `id` INT UNSIGNED NOT NULL AUTO_INCREMENT , `cimzett` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `targy` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `email` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , `kuldesideje` DATETIME NOT NULL , `kikuldte` TEXT CHARACTER SET utf8 COLLATE utf8_hungarian_ci NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;";
 
             $dbh->exec($sqlCreate);
 
@@ -58,7 +57,7 @@
             }*/
             /*else {*/
                 // Ha nem létezik, akkor regisztráljuk
-                $sqlInsert = "insert into email2(id, cimzett, targy, email, kuldesideje, kikuldte)
+                $sqlInsert = "insert into email(id, cimzett, targy, email, kuldesideje, kikuldte)
                           values(NULL, :cimzett, :targy, :email, :kuldesideje, :kikuldte)";
                 $stmt = $dbh->prepare($sqlInsert); 
                 $stmt->execute(array(':cimzett' => $_POST['cimzett'], ':targy' => $_POST['targy'],

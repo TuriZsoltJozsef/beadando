@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="./styles/language-selector.css" type="text/css" media="all">
 
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" type="text/css" href="./styles/stylew.css" media="screen">
+<link rel="stylesheet" type="text/css" href="./styles/style.css" media="screen">
 <link rel="pingback" href="https://szentferencalapitvany.org/xmlrpc.php">
 <link href="./styles/css" rel="stylesheet" type="text/css">
 
@@ -84,11 +84,11 @@ img.emoji {
 
 
 <body class="home blog hu chrome layout-left-content parent" style="background: url(https://szentferencalapitvany.org/wp-content/themes/szentferenc/images/devai-szentferenc-bg-1.jpg ) center 0 no-repeat;">
-
+<!--
 <div id="wrapper" class="parent">
 	
 	
-	<header id="header" class="parent">
+	<header>
 	<div class="col-full parent">
 	
 		<div class="top_menu_search">	
@@ -101,13 +101,13 @@ img.emoji {
 				</form>   
 			</div><!--/.search_main-->
 				
-		</div><!--/.top_menu_search-->
+		<!--</div><!--/.top_menu_search-->
 	
 		<!--		<a id="logo" href="." title="Böjte Csaba OFM">
                     <img src="./images/logo.png" alt="Szent Ferenc Alapítvány">
                 </a>-->
 		
-		<div id="search-social">
+		<!--<div id="search-social">
 			<div class="social-icons">
 				<a class="magyarver" target="_blank" href="http://szentferencalapitvany.org/">Magyar</a>
 				<a class="deutschver" target="_blank" href="http://szentferencalapitvany.org/de">Deutsch</a>
@@ -121,7 +121,7 @@ img.emoji {
         <input type="submit" value="Keresés" class="search-submit" name="submit" alt="Submit">
     </form>    
 </div><!--/.search_main-->
-		</div>
+		<!--</div>-->
 		
 		
 </ul>	
@@ -212,7 +212,7 @@ img.emoji {
 	</section><!-- /#featured -->
 	<!--<ol class="flex-control-nav"><li><a class="">1</a></li><li><a class="">2</a></li><li><a class="">3</a></li><li><a class="">4</a></li><li><a class="">5</a></li><li><a class="">6</a></li><li><a class="">7</a></li><li><a class="active">8</a></li></ol></div>
 	-->
-
+	</div>
 <script type="text/javascript">
 
 var slideIndex = 1;
@@ -352,21 +352,21 @@ function resumeSlides()
 			
 				 			
     			<ul class="section-list">
-				    				<li class="feature1 threecol-one">
+				    				<li class="feature1 threecol-one  ">
     					
     						    				<h2><a href="http://szentferencalapitvany.org/kik-vagyunk/">Kik vagyunk?</a></h2>
 	    				<div class="feature-content">
 							<img class="aligncenter size-full" src="./images/deva_kik_vagyunk_02.jpg"><div><span style="line-height: 1.5em;">A Szent Ferenc Alapítványt az erdélyi ferences szerzetesek hozták létre 1993 tavaszán. Célja segíteni a legkisebbeket, azokat, akik másnak nem kellenek!</span></div>
 						</div>
 	    				</li>
-    				    				<li class="feature2 threecol-one">
+    				    				<li class="feature2 threecol-one ">
     					
     						    				<h2><a href="http://szentferencalapitvany.org/miben-hiszunk/">Miben hiszünk?</a></h2>
 	    				<div class="feature-content">
 							<img class="aligncenter size-full" src="./images/deva_miben_hiszunk_03.jpg"><div><span style="line-height: 1.5em;">Céljaink a gyermekek érdekeinek képviselete, szellemi és szociális fejlődésük elősegítése, szociális védelme és nevelésének elősegítése, támogatása.</span></div>
 						</div>
 	    				</li>
-    				    				<li class="feature3 threecol-one last">
+    				    				<li class="feature3 threecol-one last ">
     					
     						    				<h2><a href="http://szentferencalapitvany.org/igy-elunk/">Így élünk</a></h2>
 	    				<div class="feature-content">
@@ -378,9 +378,9 @@ function resumeSlides()
     		</section>
     		    		
     		
-<div id="blog" class="home-section fix">
-    
 
+    
+			<div id="blog" class="home-section fix">
 
         
     	    	
@@ -390,8 +390,7 @@ Die Grossfamilie von Pater Csaba</a></p></div></div><div class="standard-block m
 
     	
     
-      
-</div>			
+    </div>  			
     </div><!-- /#content -->
 		
 
@@ -402,8 +401,8 @@ Die Grossfamilie von Pater Csaba</a></p></div></div><div class="standard-block m
 			<section id="footer-widgets" class="col-6 fix">
 
 											
-				<div class="block threecol-one footer-widget-1 ">
-		        	<div id="text-2" class="widget widget_text"><h3>Adományozás</h3>			<div class="textwidget">Alapítványunk online is fogad adományokat - <a target="_blank" href="http://adhat.hu/niok/online-donation/164928">kattintson ide</a>, ha segíteni szeretne!</div>
+				<div class="block threecol-one footer-widget-1  ">
+		        	<div id="text-2" class="widget widget_text feature-title"><h3>Adományozás</h3>			<div class="textwidget feature-title">Alapítványunk online is fogad adományokat - <a target="_blank" href="http://adhat.hu/niok/online-donation/164928">kattintson ide</a>, ha segíteni szeretne!</div>
 		</div>				</div>
 		
 			        											
@@ -421,7 +420,7 @@ Telefon: +36-30/685-78-19<br>
 		</div>				</div>
 		
 			        											
-				<div class="block threecol-one footer-widget-4 ">
+				<div class="block threecol-one footer-widget-4  ">
 		        	<div id="text-6" class="widget widget_text"><h3>Spende</h3>			<div class="textwidget"><p>Sie können uns auch spenden:</p>
 <p>IBAN: DE09 5004 0000 0736 3104 00<br>
 BIC: COBADEFFXXX</p>
@@ -429,7 +428,7 @@ BIC: COBADEFFXXX</p>
 		</div>				</div>
 		
 			        											
-				<div class="block threecol-one footer-widget-5 ">
+				<div class="block threecol-one footer-widget-5  ">
 		        	<div id="text-7" class="widget widget_text"><h3>Kontakte</h3>			<div class="textwidget"><p>E-mail: <a href="mailto:devakinder@gmail.com">devakinder@gmail.com</a><br>
 Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br>
 <a target="_blank" href="https://www.facebook.com/pages/Magnificatro-B%C3%B6jte-Csaba-OFM-D%C3%A9vai-Szent-Ferenc-Alap%C3%ADtv%C3%A1ny-honlapja/161816877193336?fref=ts">Besuchen Sie uns auf Facebook (ungarisch)</a><br>
@@ -438,7 +437,7 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 		</div>				</div>
 		
 			        											
-				<div class="block threecol-one footer-widget-6 last">
+				<div class="block threecol-one footer-widget-6 last ">
 		        	<div id="text-8" class="widget widget_text"><h3>Android App</h3>			<div class="textwidget"><p>Die Android App  <a target="_blank" href="https://play.google.com/store/apps/details?id=tamas.magnificat.ro.hiteve&amp;feature=search_result#?t=W251bGwsMSwxLDEsInRhbWFzLm1hZ25pZmljYXQucm8uaGl0ZXZlIl0.">Fenster auf die Welt</a> können Sie mitnehmen. Erreichbar auf Google Play.</p>
 </div>
 		</div>				</div>
@@ -465,7 +464,6 @@ Telefon: +49 89 666-50-500, +49 8106 6183, +19 152 33604761, +49 6032 3495165<br
 		</div>
 		</div><!-- /.col-full -->
 	
-	</div>
 
 <!-- /#wrapper -->
 <!-- ngg_resource_manager_marker --><script type="text/javascript" src="./styles/imagesloaded.min.js.letöltés"></script>

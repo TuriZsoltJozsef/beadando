@@ -3,6 +3,9 @@
     font-size: larger;
 }*/
 
+.newsbox-content {
+    overflow-wrap: break-word;
+}
 ul {
     list-style-type: none;
 }

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 echo "<table style='border: solid 1px black;'>";
 echo "<tr><th>id</th><th>Címzett</th><th>Tárgy</th><th>E-mail</th><th>Küldés ideje</th><th>Küldő</th></tr>";
 
@@ -20,15 +20,16 @@ class TableRows extends RecursiveIteratorIterator {
   }
 }
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "gyakorlat7";
+$servername = "mysql.omega";
+$username = "beadandoroot";
+$password = "rootjelszo12";
+$dbname = "beadandoroot";
+$port=3306;
 
 try {
-  $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+  $conn = new PDO("mysql:host=$servername;port=$port;dbname=$dbname", $username, $password);
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  $stmt = $conn->prepare("SELECT * FROM email2 order by id desc");
+  $stmt = $conn->prepare("SELECT * FROM email order by id desc");
   $stmt->execute();
 
   // set the resulting array to associative

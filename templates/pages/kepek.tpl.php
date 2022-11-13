@@ -8,9 +8,6 @@
   <input type="file" name="fileToUpload" id="fileToUpload">
   <input type="submit" value="Feltöltés" name="submit">
 </form>
-<?php
-$error=0;
-  if( $error!==0){ echo $error;echo'hiba';}?>
 
 </body>
 </html>
@@ -52,33 +49,7 @@ $error=0;
 
     </style>
 
-   <div class='container'>
- <div class="gallery">
  
-<?php
-$images = glob("images/*.{jpg,jpeg,gif,png,bmp,webp}", GLOB_BRACE);
-foreach ($images as $i) {
-//echo "<img src='images/". rawurlencode(basename($i)) ."' class='gallery'>";
-  $img = basename($i);
-  $caption = substr($img, 0, strrpos($img, "."));
-  printf("<figure><img src='images/%s' class='gallery'><figcaption>%s</figcaption></figure>", 
-    rawurlencode($img), $caption
-  );
-}
-?>
-
-</div>
-</div>
-
-    <script>window.addEventListener("DOMContentLoaded", () => {
-  // (A) GET ALL IMAGES
-  var all = document.querySelectorAll(".gallery img");
- 
-  // (B) CLICK ON IMAGE TO TOGGLE FULLSCREEN
-  if (all.length>0) { for (let img of all) {
-    img.onclick = () => { img.classList.toggle("full"); };
-  }}
-});</script>
 <?php
 /*session_start();*/
 
@@ -142,4 +113,30 @@ if ($uploadOk == 0) {
 }
 }
 ?>
+  <div class='container'>
+ <div class="gallery">
+ 
+<?php
+$images = glob("images/*.{jpg,jpeg,gif,png,bmp,webp}", GLOB_BRACE);
+foreach ($images as $i) {
+//echo "<img src='images/". rawurlencode(basename($i)) ."' class='gallery'>";
+  $img = basename($i);
+  $caption = substr($img, 0, strrpos($img, "."));
+  printf("<figure><img src='images/%s' class='gallery'><figcaption>%s</figcaption></figure>", 
+    rawurlencode($img), $caption
+  );
+}
+?>
 
+</div>
+</div>
+
+    <script>window.addEventListener("DOMContentLoaded", () => {
+  // (A) GET ALL IMAGES
+  var all = document.querySelectorAll(".gallery img");
+ 
+  // (B) CLICK ON IMAGE TO TOGGLE FULLSCREEN
+  if (all.length>0) { for (let img of all) {
+    img.onclick = () => { img.classList.toggle("full"); };
+  }}
+});</script>
